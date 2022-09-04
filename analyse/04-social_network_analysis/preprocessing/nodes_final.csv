@@ -1,0 +1,1253 @@
+Id,Label,timeset,fonction,cluster,degree,weighted degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,stat_inf_class
+aves_aa_4R_auth_0001,"metziger, wilhelm",,personne,,6,6,8,0.218936,0.249136,1928.183194,1
+aves_aa_4R_auth_0002,"colmar, von, hannemann",,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0003,"gerung, judengasse, in",,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0004,"rotschilt, wilhelm",,personne,,2,2,8,0.221573,0.239349,1041.90839,1
+aves_aa_4R_auth_0005,"spielmann, claus",,personne,,5,5,8,0.221809,0.250402,1466.396925,1
+aves_aa_4R_auth_0006,"schott, claus",,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0007,"issenhausen, ulrich",,personne,,4,4,10,0.197443,0.226532,824.386443,1
+aves_aa_4R_auth_0008,sigel,,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0009,"kindelin, erhart",,personne,,3,3,8,0.2129,0.235817,1202.757055,1
+aves_aa_4R_auth_0010,"andres, rossmarkt, am",,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0011,"gumbrecht, von, diebolt",,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0012,"boppe, küntz",,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0013,"tummeler, dietrich",,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0014,"westermann, johanns",,personne,,2,2,10,0.186272,0.207343,80.596413,1
+aves_aa_4R_auth_0015,"heischer, lienhart",,personne,,3,3,10,0.18846,0.212886,200.878503,1
+aves_aa_4R_auth_0016,"laubeck, johanns",,personne,,4,4,8,0.20488,0.231804,704.459817,1
+aves_aa_4R_auth_0017,"honau, peter",,personne,,3,3,8,0.199713,0.222219,222.906777,1
+aves_aa_4R_auth_0018,"hühnerer, ulrich",,personne,,2,2,8,0.199585,0.21934,111.877499,1
+aves_aa_4R_auth_0019,"nattener, andres",,personne,,5,5,8,0.218172,0.246698,1613.31892,1
+aves_aa_4R_auth_0020,"schwicker, johanns",,personne,,2,2,10,0.186605,0.207383,45.024405,1
+aves_aa_4R_auth_0021,"aler, heintz",,personne,,1,1,10,0.182468,0.199186,0,1
+aves_aa_4R_auth_0022,"gosse, ulrich",,personne,,11,11,8,0.245776,0.281677,9841.752802,1
+aves_aa_4R_auth_0023,"ingenheim, von, claus",,personne,,4,4,8,0.227455,0.250351,2494.23263,1
+aves_aa_4R_auth_0024,"diether, johanns",,personne,,4,4,8,0.237742,0.259521,2897.042554,1
+aves_aa_4R_auth_0025,"dingsheim, claus",,personne,,4,4,8,0.209759,0.23505,689.360333,1
+aves_aa_4R_auth_0026,"hagenau, von, peter, hagenau, von",,personne,,2,2,8,0.199585,0.21934,111.877499,1
+aves_aa_4R_auth_0027,"stachel, küntz",,personne,,5,5,8,0.21458,0.243367,1298.347731,1
+aves_aa_4R_auth_0028,"klige, hug, staden, am",,personne,,10,10,8,0.255306,0.290125,10613.408537,14
+aves_aa_4R_auth_0029,"rhinau, walther",,personne,,3,3,10,0.18846,0.212886,200.878503,1
+aves_aa_4R_auth_0030,"sünner, peter",,personne,,5,5,8,0.21261,0.241059,908.538067,1
+aves_aa_4R_auth_0031,"barpfennig, ruhlemann",,personne,,13,13,8,0.258364,0.295759,12081.860803,1
+aves_aa_4R_auth_0032,"johanns, sankt-thoman",,personne,,3,3,8,0.199331,0.222712,377.715669,1
+aves_aa_4R_auth_0033,"berse, von, wilhelm",,personne,,3,3,8,0.20269,0.225908,241.482218,1
+aves_aa_4R_auth_0034,"herbst, johanns",,personne,,2,2,8,0.196884,0.216904,148.746218,1
+aves_aa_4R_auth_0035,"langneffe, johanns",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0036,"hanseler, johanns",,personne,,4,4,8,0.236484,0.258109,2559.070321,1
+aves_aa_4R_auth_0037,"kranich, heinrich",,personne,,5,5,8,0.21802,0.246538,2087.518116,1
+aves_aa_4R_auth_0038,"gans, johanns",,personne,,4,4,8,0.21089,0.23807,773.406827,1
+aves_aa_4R_auth_0039,"trüchtersheim, von, eberhart",,personne,,7,7,8,0.244814,0.273679,4975.34681,1
+aves_aa_4R_auth_0040,heilmann,,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0041,"nellesheim, johanns, rethanns der junge",,personne,,2,2,10,0.183539,0.204564,173.988558,1
+aves_aa_4R_auth_0042,"seelose, heintz",,personne,,7,7,8,0.235593,0.265672,3208.652635,1
+aves_aa_4R_auth_0043,"münch, ottemann",,personne,,2,2,8,0.19895,0.218542,117.268675,1
+aves_aa_4R_auth_0044,"beildeck, fritsch",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0045,"christian, barfüssern, vor den",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0046,"henneckin, claus",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0047,"rhinau, andres",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0048,"stacheler, johanns",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0049,stoffelus,,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0050,"pfennigmann, johanns",,personne,,2,2,8,0.204479,0.224102,138.863637,1
+aves_aa_4R_auth_0051,"saltzmütter, johanns, der junge",,personne,,3,3,8,0.204278,0.227946,270.901011,1
+aves_aa_4R_auth_0052,"dolde, johanns",,personne,,2,2,8,0.204212,0.22521,241.060663,1
+aves_aa_4R_auth_0053,"schrotbanck, walther",,personne,,4,4,8,0.21802,0.243754,978.573402,1
+aves_aa_4R_auth_0054,"wigang,",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0055,"kleinhanns, diethmar",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0056,"kornbick, claus",,personne,,1,1,10,0.180467,0.196517,0,1
+aves_aa_4R_auth_0057,"bobst, lienhart",,personne,,11,11,8,0.253753,0.28975,12591.821365,1
+aves_aa_4R_auth_0058,"ölmann, walther",,personne,,4,4,8,0.212827,0.238238,675.412105,1
+aves_aa_4R_auth_0059,"barpfennig, johanns",,personne,,5,5,8,0.232874,0.257802,3251.528594,1
+aves_aa_4R_auth_0060,"küntz, staden, am",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0061,"färber, johanns",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0062,"heinrich, johanns, zoller, zum",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0063,"stumpf, heintz",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0064,"bergheim, johanns, ammeister",,personne,,3,3,8,0.201644,0.225577,611.730759,1
+aves_aa_4R_auth_0065,"sporer, stefan",,personne,,6,6,8,0.213045,0.246225,2061.836449,1
+aves_aa_4R_auth_0066,"schön, heintz",,personne,,2,2,8,0.197943,0.218816,217.774958,1
+aves_aa_4R_auth_0067,"obrecht, der lange",,personne,,3,3,8,0.212106,0.235147,646.973788,1
+aves_aa_4R_auth_0068,"schultheiss, küntz",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0069,"klammann, andres",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0070,"rickersheim, küntz",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0071,"bock, johanns",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0072,"lamb, hensel, teich, am",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0073,"obrecht, johanns, schintbrücke, an der",,personne,,2,2,8,0.231068,0.246931,2350.554246,1
+aves_aa_4R_auth_0074,"schmied, lienhart, trachenfeils, zu",,personne,,2,2,8,0.197256,0.217077,146.304734,1
+aves_aa_4R_auth_0075,"schenck, johanns",,personne,4.0,6,6,8,0.241599,0.268052,6429.636024,2
+aves_aa_4R_auth_0076,"steck, johanns",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0077,"steingewerck, claus",,personne,,3,3,8,0.199522,0.222286,295.451487,1
+aves_aa_4R_auth_0078,"mörlin, johanns",,personne,,2,2,8,0.198634,0.218415,169.0098,1
+aves_aa_4R_auth_0079,"altheim, claus",,personne,,1,1,10,0.177497,0.193325,0,1
+aves_aa_4R_auth_0080,"heilmann, johanns",,personne,,9,9,8,0.222045,0.257223,3215.554055,1
+aves_aa_4R_auth_0081,"geispoltzheim, von, jacob, der junge",,personne,2.0,19,19,6,0.288249,0.328737,43933.625681,3
+aves_aa_4R_auth_0082,"müseler, peter",,personne,,4,4,8,0.214139,0.23966,562.26098,1
+aves_aa_4R_auth_0083,"armbruster, obrecht",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0084,"küntzlin, diethmar, bosser, zum",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0085,"kirwiller, von, gerbot",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0086,"wassicher, heilmann",,personne,,2,2,8,0.201514,0.221367,105.303699,1
+aves_aa_4R_auth_0087,"ruhlmann, lauwel",,personne,,4,4,8,0.228535,0.251031,782.689458,1
+aves_aa_4R_auth_0088,"lorer, hermann",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0089,"miltenberg, johanns",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0090,"vogt, johanns, ettenheim, von",,personne,,2,2,8,0.206163,0.225911,221.120285,1
+aves_aa_4R_auth_0091,"beildeck, jacob",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0092,"herring, oberlin",,personne,,4,4,8,0.214286,0.239433,590.201182,1
+aves_aa_4R_auth_0093,"waltenheim, johanns",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0094,"melbrühe, michel",,personne,,6,6,8,0.237652,0.264144,2210.559609,1
+aves_aa_4R_auth_0095,"martin, johanns",,personne,,2,2,8,0.204278,0.22421,75.952049,1
+aves_aa_4R_auth_0096,"mönchelin, küntz",,personne,,3,3,8,0.210111,0.233132,333.855587,1
+aves_aa_4R_auth_0097,"rohrer, marx",,personne,,3,3,8,0.209267,0.23136,196.737971,1
+aves_aa_4R_auth_0098,"rüllin, claus",,personne,,2,2,8,0.207051,0.227478,129.376633,1
+aves_aa_4R_auth_0099,"wecker, jeckel",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0100,"nesselbach, erhart",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0101,"hühnerer, lauwel",,personne,,3,3,8,0.225649,0.245448,515.634947,1
+aves_aa_4R_auth_0102,"altheim, jacob",,personne,,1,1,8,0.195164,0.210522,0,1
+aves_aa_4R_auth_0103,"friedel, lauwel",,personne,,1,1,10,0.182308,0.198832,0,1
+aves_aa_4R_auth_0104,"wingersheim, peter",,personne,,1,1,10,0.182308,0.198832,0,1
+aves_aa_4R_auth_0105,"kammerer, johanns",,personne,,1,1,10,0.182308,0.198832,0,1
+aves_aa_4R_auth_0106,"spirer, anshelm",,personne,,5,5,8,0.239931,0.26446,3552.203342,4
+aves_aa_4R_auth_0107,"lorer, johanns",,personne,,1,1,10,0.182308,0.198832,0,1
+aves_aa_4R_auth_0108,"menniger, johanns",,personne,,1,1,10,0.182308,0.198832,0,1
+aves_aa_4R_auth_0109,"kacheler, johanns",,personne,,1,1,10,0.182308,0.198832,0,1
+aves_aa_4R_auth_0110,"mönchelin, johanns",,personne,,2,2,8,0.200867,0.221192,115.242643,1
+aves_aa_4R_auth_0111,"oberkirch, von, lauwel",,personne,,1,1,10,0.182308,0.198832,0,1
+aves_aa_4R_auth_0112,"pfau, johanns",,personne,2.0,9,9,8,0.245873,0.280043,9417.982116,1
+aves_aa_4R_auth_0113,"berner, johanns",,personne,,2,2,10,0.190759,0.212375,75.265764,1
+aves_aa_4R_auth_0114,"albrecht, johanns, schintbrücke, an der",,personne,,2,2,10,0.190759,0.212375,75.265764,1
+aves_aa_4R_auth_0115,"messinger, heintz",,personne,,4,4,8,0.216586,0.242368,870.49092,1
+aves_aa_4R_auth_0116,"girbaden, hensel",,personne,,1,1,10,0.182308,0.198832,0,1
+aves_aa_4R_auth_0117,"kistner, reinhart, bruch, im",,personne,,3,3,8,0.20197,0.225284,321.039882,1
+aves_aa_4R_auth_0118,"willgottheim, claus",,personne,,5,5,8,0.229289,0.254415,1590.725687,1
+aves_aa_4R_auth_0119,"rottweil, von, erhart",,personne,,2,2,8,0.204746,0.225615,152.34596,2
+aves_aa_4R_auth_0120,"hagenau, von, wernher",,personne,,4,4,8,0.224194,0.247662,673.110785,1
+aves_aa_4R_auth_0121,"schanlit, walther",,personne,,2,2,8,0.200803,0.221292,86.43082,1
+aves_aa_4R_auth_0122,"weissgerber, fritsch",,personne,,1,1,8,0.193773,0.209983,0,1
+aves_aa_4R_auth_0123,"wormser, claus",,personne,,3,3,8,0.242442,0.2599,1498.975352,1
+aves_aa_4R_auth_0124,"hagenau, von, erhart",,personne,,1,1,8,0.193773,0.209983,0,1
+aves_aa_4R_auth_0125,"stegemann, eberhart",,personne,,1,1,8,0.193773,0.209983,0,1
+aves_aa_4R_auth_0126,"hechde, claus",,personne,,2,2,8,0.206709,0.225591,58.242035,1
+aves_aa_4R_auth_0127,"arge, claus",,personne,,5,5,8,0.215244,0.243215,627.17127,1
+aves_aa_4R_auth_0128,"melbrühe, claus",,personne,,15,15,8,0.267308,0.308415,16798.046218,1
+aves_aa_4R_auth_0129,"wintzler, peter",,personne,,1,1,8,0.193773,0.209983,0,1
+aves_aa_4R_auth_0130,"lamb, johanns",,personne,2.0,9,9,6,0.264482,0.29154,14376.353446,11
+aves_aa_4R_auth_0131,"messerer, claus",,personne,,1,1,8,0.193773,0.209983,0,1
+aves_aa_4R_auth_0132,"frei, uhlmann",,personne,,1,1,8,0.193773,0.209983,0,1
+aves_aa_4R_auth_0133,"fritschmann, hug",,personne,,1,1,8,0.193773,0.209983,0,1
+aves_aa_4R_auth_0134,"riffe, peter",,personne,4.0,5,5,8,0.238467,0.260221,3576.175047,14
+aves_aa_4R_auth_0135,"gerter, küntz",,personne,,2,2,8,0.219628,0.236176,163.722966,1
+aves_aa_4R_auth_0136,"schanlit, claus",,personne,2.0,17,17,6,0.282776,0.321183,32100.225287,0
+aves_aa_4R_auth_0137,"kraft, johanns",,personne,,3,3,8,0.221809,0.241079,315.890249,1
+aves_aa_4R_auth_0138,"kindelin, mewus",,personne,,1,1,8,0.195347,0.210967,0,1
+aves_aa_4R_auth_0139,"überhang, zum, hermann",,personne,,3,3,8,0.210535,0.232679,189.012838,1
+aves_aa_4R_auth_0140,"meiger, johanns",,personne,,3,3,8,0.207051,0.230611,248.05766,2
+aves_aa_4R_auth_0141,"hagenau, von, götze",,personne,4.0,4,4,8,0.226302,0.249982,2614.011581,9
+aves_aa_4R_auth_0142,"lamb, heitz",,personne,,2,2,8,0.201709,0.221605,46.553661,1
+aves_aa_4R_auth_0143,"seifenmacher, hug",,personne,,2,2,8,0.20857,0.228136,110.087038,1
+aves_aa_4R_auth_0144,"grossstein, johanns",,personne,,1,1,8,0.195347,0.210967,0,1
+aves_aa_4R_auth_0145,"stollhofen, hensel",,personne,,1,1,8,0.195347,0.210967,0,1
+aves_aa_4R_auth_0146,"frei, johanns",,personne,,2,2,8,0.222124,0.239708,221.548066,1
+aves_aa_4R_auth_0147,"gosse, peter",,personne,,1,1,8,0.195347,0.210967,0,1
+aves_aa_4R_auth_0148,"dürningen, von, johanns",,personne,,2,2,8,0.201709,0.221605,46.553661,1
+aves_aa_4R_auth_0149,"leimer, heinrich",,personne,,1,1,8,0.194799,0.210629,0,1
+aves_aa_4R_auth_0150,"kücheler, peter",,personne,,3,3,8,0.214433,0.237119,311.573158,1
+aves_aa_4R_auth_0151,"gast, ludwig",,personne,,1,1,8,0.194799,0.210629,0,1
+aves_aa_4R_auth_0152,"schrotbanck, konrat",,personne,4.0,7,7,6,0.258578,0.28352,7585.143904,11
+aves_aa_4R_auth_0153,"lumbart, johanns",,personne,,3,3,8,0.222124,0.242051,461.167772,1
+aves_aa_4R_auth_0154,"oberkirch, von, claus",,personne,,2,2,8,0.220635,0.238347,448.328546,1
+aves_aa_4R_auth_0155,"rhinau, ottemann",,personne,,2,2,8,0.211246,0.230418,113.752274,1
+aves_aa_4R_auth_0156,"rotenschilt, zum, wolff",,personne,,1,1,8,0.194799,0.210629,0,1
+aves_aa_4R_auth_0157,"walther, sankt-thoman",,personne,4.0,6,6,6,0.256247,0.276725,7522.332028,2
+aves_aa_4R_auth_0158,"marlen, peter",,personne,,1,1,8,0.194799,0.210629,0,1
+aves_aa_4R_auth_0159,"pfaffenhoffen, johanns, haffener",,personne,,2,2,8,0.199522,0.219675,92.38901,1
+aves_aa_4R_auth_0160,"voltz, claus",,personne,,7,7,8,0.224919,0.258395,2112.554353,1
+aves_aa_4R_auth_0161,"nordhausen, johanns",,personne,,1,1,8,0.194799,0.210629,0,1
+aves_aa_4R_auth_0162,"colmar, von, bechtolt",,personne,,2,2,8,0.220014,0.237563,102.407913,1
+aves_aa_4R_auth_0163,"werde, claus",,personne,,2,2,8,0.204078,0.224376,56.38056,2
+aves_aa_4R_auth_0164,"beildeck, jeckel",,personne,,1,1,8,0.197319,0.213411,0,1
+aves_aa_4R_auth_0165,"düpigheim, johanns",,personne,,1,1,8,0.197319,0.213411,0,1
+aves_aa_4R_auth_0166,schweicker,,personne,,2,2,8,0.219705,0.236549,131.23329,1
+aves_aa_4R_auth_0167,"bader, johanns, krutenau, in",,personne,,2,2,8,0.209197,0.228507,56.150815,1
+aves_aa_4R_auth_0168,"dreitzehn, hug, der junge",,personne,,13,13,8,0.263147,0.301581,11035.340088,1
+aves_aa_4R_auth_0169,"hohenhaus, zum, claus, steinstrasse, an der",,personne,,3,3,8,0.216736,0.239304,183.029612,1
+aves_aa_4R_auth_0170,"herrhorn, zum, thoman",,personne,,1,1,8,0.202821,0.218858,0,1
+aves_aa_4R_auth_0171,"mommenheim, von, johanns",,personne,,2,2,8,0.213992,0.233322,126.257073,2
+aves_aa_4R_auth_0172,"seltz, von, johanns",,personne,,2,2,8,0.20857,0.228983,99.861708,1
+aves_aa_4R_auth_0173,"armbruster, konrat, brantgasse, in",,personne,4.0,6,6,6,0.251003,0.274061,6272.822058,4
+aves_aa_4R_auth_0174,"mahler, hermann",,personne,,1,1,8,0.202821,0.218858,0,1
+aves_aa_4R_auth_0175,"bere, hensel",,personne,,1,1,8,0.202821,0.218858,0,1
+aves_aa_4R_auth_0176,"hertzog, johanns",,personne,,1,1,8,0.202821,0.218858,0,1
+aves_aa_4R_auth_0177,"gauch, johanns",,personne,,1,1,8,0.202821,0.218858,0,1
+aves_aa_4R_auth_0178,"scherer, rudolff, rossmarkt, am",,personne,,3,3,8,0.217565,0.239903,213.034075,1
+aves_aa_4R_auth_0179,"renner, diebolt",,personne,2.0,7,7,8,0.254268,0.279977,4470.036406,14
+aves_aa_4R_auth_0180,"wachsmann, zum, fritsch",,personne,,1,1,8,0.202821,0.218858,0,1
+aves_aa_4R_auth_0181,"dreitzehn, reimbolt",,personne,,1,1,8,0.202821,0.218858,0,1
+aves_aa_4R_auth_0182,"burkhart, riffe",,personne,,1,1,8,0.202821,0.218858,0,1
+aves_aa_4R_auth_0183,"martin, johanns",,personne,,2,2,10,0.194921,0.217294,96.223346,1
+aves_aa_4R_auth_0184,"meister, heintz",,personne,,2,2,10,0.194921,0.217294,96.223346,1
+aves_aa_4R_auth_0185,"zirtzer, ulrich",,personne,,4,4,8,0.237652,0.260138,1277.273509,1
+aves_aa_4R_auth_0186,"bidermann, johanns, schwenner, zum",,personne,,2,2,8,0.212827,0.232269,157.253753,1
+aves_aa_4R_auth_0187,"sturm, johanns",,personne,,1,1,10,0.186605,0.203761,0,1
+aves_aa_4R_auth_0188,"villinger, peter",,personne,2.0,8,8,8,0.255724,0.283334,7201.686361,1
+aves_aa_4R_auth_0189,"schwert, johanns",,personne,,1,1,10,0.186605,0.203761,0,1
+aves_aa_4R_auth_0190,"wasselnheim, von, johanns",,personne,,2,2,8,0.203547,0.223838,70.05654,1
+aves_aa_4R_auth_0191,"haslach von, peter",,personne,,2,2,10,0.194921,0.217294,96.223346,1
+aves_aa_4R_auth_0192,"merckwiller, küntz",,personne,,1,1,10,0.186605,0.203761,0,1
+aves_aa_4R_auth_0193,"frankenheim, ottemann",,personne,2.0,8,8,8,0.253959,0.282316,5866.351261,1
+aves_aa_4R_auth_0194,"müntzer, burkhart",,personne,,2,2,8,0.217944,0.235797,366.76138,1
+aves_aa_4R_auth_0195,"brüchelin, hansekint",,personne,,2,2,8,0.228869,0.24692,582.706029,1
+aves_aa_4R_auth_0196,"flach, johanns",,personne,,2,2,10,0.194617,0.21698,78.437184,1
+aves_aa_4R_auth_0197,"blumenstein, johanns",,personne,,2,2,8,0.230557,0.246398,527.152964,1
+aves_aa_4R_auth_0198,"burkhart, heintz",,personne,,4,4,8,0.23874,0.260507,1891.930451,1
+aves_aa_4R_auth_0199,"spitznagel, johanns",,personne,,1,1,10,0.186605,0.203761,0,1
+aves_aa_4R_auth_0200,"wibolsheim, johanns",,personne,,1,1,10,0.186605,0.203761,0,1
+aves_aa_4R_auth_0201,"hermann, jacob",,personne,,1,1,8,0.199649,0.216036,0,2
+aves_aa_4R_auth_0202,"berse, johanns",,personne,,1,1,8,0.199649,0.216036,0,2
+aves_aa_4R_auth_0203,"sprenger, claus",,personne,,3,3,8,0.240669,0.258541,723.444201,2
+aves_aa_4R_auth_0204,"kacheler, anthenie",,personne,,1,1,8,0.199649,0.216036,0,2
+aves_aa_4R_auth_0205,"armbruster, johanns",,personne,,1,1,8,0.199649,0.216036,0,2
+aves_aa_4R_auth_0206,"kerb, johanns",,personne,,2,2,8,0.206777,0.227866,166.256444,2
+aves_aa_4R_auth_0207,"kenen, zur, jeckel",,personne,,1,1,8,0.199649,0.216036,0,2
+aves_aa_4R_auth_0208,"schmalriem, andres",,personne,4.0,5,5,8,0.241506,0.262808,3916.502495,2
+aves_aa_4R_auth_0209,"zender, johanns",,personne,,1,1,8,0.199649,0.216036,0,2
+aves_aa_4R_auth_0210,"mannertrieb, diebolt",,personne,,2,2,8,0.205082,0.225375,105.678274,2
+aves_aa_4R_auth_0211,"mentzer, johanns",,personne,,2,2,8,0.213408,0.233423,219.804948,2
+aves_aa_4R_auth_0212,"seiler, ruhlemann",,personne,,2,2,8,0.204278,0.224669,72.061031,2
+aves_aa_4R_auth_0213,"tuchscherer, ottemann",,personne,,1,1,8,0.199649,0.216036,0,2
+aves_aa_4R_auth_0214,"voltz,",,personne,,1,1,8,0.201839,0.217693,0,1
+aves_aa_4R_auth_0215,"willgottheim, johanns",,personne,,2,2,8,0.2129,0.232732,226.786611,11
+aves_aa_4R_auth_0216,"epfig, von, hannemann",,personne,,3,3,8,0.210819,0.233345,211.387566,1
+aves_aa_4R_auth_0217,"meiger, claus",,personne,,2,2,8,0.205015,0.224715,62.638819,1
+aves_aa_4R_auth_0218,"jeckelin, symont",,personne,,1,1,8,0.201839,0.217693,0,1
+aves_aa_4R_auth_0219,"rawensburg, johanns",,personne,,1,1,8,0.201839,0.217693,0,1
+aves_aa_4R_auth_0220,"kriegsheim, von, johanns, stacheler",,personne,,2,2,8,0.223154,0.239853,179.519307,1
+aves_aa_4R_auth_0221,"brüchelin, claus, der junge",,personne,,1,1,8,0.201839,0.217693,0,1
+aves_aa_4R_auth_0222,"saltzmütter, dietrich",,personne,4.0,7,7,6,0.259544,0.283347,5789.332182,8
+aves_aa_4R_auth_0223,"wurant, rudolff",,personne,,1,1,8,0.201839,0.217693,0,1
+aves_aa_4R_auth_0224,"lampertheim, von, peter",,personne,0.0,3,3,8,0.209057,0.226675,759.386988,4
+aves_aa_4R_auth_0225,"brucker, peter",,personne,4.0,4,4,8,0.239288,0.257989,2609.549758,14
+aves_aa_4R_auth_0226,"nussmann, peter",,personne,,1,1,10,0.188064,0.205482,0,1
+aves_aa_4R_auth_0227,"heimburg, küntz",,personne,,1,1,10,0.188064,0.205482,0,1
+aves_aa_4R_auth_0228,"gerbot, claus",,personne,,4,4,8,0.222598,0.248616,907.751723,1
+aves_aa_4R_auth_0229,"dannenfels, johanns",,personne,,1,1,10,0.188064,0.205482,0,1
+aves_aa_4R_auth_0230,"stoltz, peter",,personne,,4,4,8,0.24405,0.263923,1518.475837,1
+aves_aa_4R_auth_0231,"spirer, claus",,personne,,4,4,8,0.222995,0.248302,628.17862,1
+aves_aa_4R_auth_0232,"kenen, zur, jacob",,personne,,7,7,8,0.250701,0.27658,3300.09778,1
+aves_aa_4R_auth_0233,"harnescher, blesin",,personne,,3,3,8,0.224354,0.246634,767.891761,9
+aves_aa_4R_auth_0234,"bock, ludwig",,personne,,1,1,10,0.188064,0.205482,0,1
+aves_aa_4R_auth_0235,"hug, johanns, pfaffe",,personne,,2,2,8,0.2129,0.232296,144.174991,1
+aves_aa_4R_auth_0236,"pfluger, ottemann",,personne,,2,2,8,0.222598,0.240374,317.008576,1
+aves_aa_4R_auth_0237,"kutteltzheim, michel",,personne,,1,1,10,0.188064,0.205482,0,1
+aves_aa_4R_auth_0238,"betscholt, johanns",,personne,2.0,13,13,8,0.262264,0.297416,12960.4637,3
+aves_aa_4R_auth_0239,"meiger, jeckel",,personne,,2,2,8,0.202953,0.223483,73.208764,1
+aves_aa_4R_auth_0240,"göffde, von, claus",,personne,,4,4,8,0.230048,0.252748,718.171244,1
+aves_aa_4R_auth_0241,"arner, heinrich",,personne,,2,2,8,0.23141,0.246838,261.45189,1
+aves_aa_4R_auth_0242,"wild, küntz",,personne,,4,4,8,0.239288,0.260494,968.932845,1
+aves_aa_4R_auth_0243,"meiger, heinrich",,personne,,1,1,10,0.191519,0.209519,0,1
+aves_aa_4R_auth_0244,"wilgen, zur, jacob",,personne,,2,2,8,0.204078,0.224411,46.696768,1
+aves_aa_4R_auth_0245,"flöss, heintz",,personne,4.0,6,6,8,0.2504,0.274768,6316.303863,1
+aves_aa_4R_auth_0246,"roser, heintz",,personne,,3,3,8,0.231924,0.250581,359.634052,14
+aves_aa_4R_auth_0247,"ingenheim, küntz",,personne,,2,2,10,0.194315,0.216034,34.908023,1
+aves_aa_4R_auth_0248,"dolde, bechtolt",,personne,,1,1,10,0.191519,0.209519,0,1
+aves_aa_4R_auth_0249,"wernher, claus",,personne,,1,1,10,0.191519,0.209519,0,1
+aves_aa_4R_auth_0250,"giger, claus",,personne,,1,1,10,0.191519,0.209519,0,1
+aves_aa_4R_auth_0251,"reichwein, walther",,personne,,4,4,8,0.218325,0.243873,425.456757,1
+aves_aa_4R_auth_0252,"kerling, claus",,personne,,1,1,8,0.212683,0.226072,0,1
+aves_aa_4R_auth_0253,"renner, johanns, der junge",,personne,4.0,4,4,8,0.239288,0.259068,2135.39166,4
+aves_aa_4R_auth_0254,"vetter, claus",,personne,4.0,5,5,8,0.249104,0.269945,2308.502598,1
+aves_aa_4R_auth_0255,"schnipper, claus",,personne,,1,1,8,0.212683,0.226072,0,1
+aves_aa_4R_auth_0256,"arnolt, konrat",,personne,4.0,3,3,6,0.246843,0.261777,1623.210565,11
+aves_aa_4R_auth_0257,"siffermann, riffe",,personne,,1,1,8,0.212683,0.226072,0,1
+aves_aa_4R_auth_0258,"rhinau, johanns",,personne,,2,2,8,0.218783,0.23571,227.403861,1
+aves_aa_4R_auth_0259,"klein, dietrich",,personne,,2,2,8,0.230727,0.246358,146.29165,4
+aves_aa_4R_auth_0260,"müntzenberg, heinrich",,personne,,1,1,8,0.212683,0.226072,0,1
+aves_aa_4R_auth_0261,"spete, johanns",,personne,3.0,15,15,6,0.289048,0.318598,53543.247946,8
+aves_aa_4R_auth_0262,"schluch, im, johanns, schluch, im",,personne,1.0,6,6,6,0.260191,0.279803,5660.917995,2
+aves_aa_4R_auth_0263,"nothalden, von, heinrich",,personne,,1,1,8,0.212683,0.226072,0,1
+aves_aa_4R_auth_0264,"buchswiller, von, burkhart",,personne,,2,2,8,0.218783,0.23571,227.403861,1
+aves_aa_4R_auth_0265,"schwob, johanns",,personne,,2,2,8,0.20997,0.229298,55.787384,1
+aves_aa_4R_auth_0266,"lampertheim, von, johanns",,personne,,1,1,8,0.20119,0.218003,0,1
+aves_aa_4R_auth_0267,"müntzenberg, johanns",,personne,,2,2,8,0.220324,0.23783,104.07028,1
+aves_aa_4R_auth_0268,"dossenheim, von, hug",,personne,2.0,13,13,6,0.270311,0.301812,14674.667297,5
+aves_aa_4R_auth_0269,"kacheler, sifrit",,personne,,2,2,8,0.227869,0.24396,164.48233,14
+aves_aa_4R_auth_0270,"waldeck, konrat",,personne,,1,1,8,0.20119,0.218003,0,1
+aves_aa_4R_auth_0271,"schnell, johanns",,personne,,1,1,8,0.20119,0.218003,0,1
+aves_aa_4R_auth_0272,"risser, claus",,personne,,1,1,8,0.20119,0.218003,0,1
+aves_aa_4R_auth_0273,"peter, johanns",,personne,,1,1,8,0.20119,0.218003,0,1
+aves_aa_4R_auth_0274,"['', ''], diebolt",,personne,,2,2,8,0.20997,0.229298,55.787384,1
+aves_aa_4R_auth_0275,"obrecht, johanns",,personne,,2,2,8,0.222677,0.240481,181.321903,4
+aves_aa_4R_auth_0276,"voltz, claus, hagenau, von",,personne,,2,2,8,0.207325,0.22659,48.983514,1
+aves_aa_4R_auth_0277,"gerbot, küntz",,personne,,2,2,8,0.22244,0.239895,135.634605,4
+aves_aa_4R_auth_0278,"honau, von, claus",,personne,,1,1,8,0.19707,0.213105,0,1
+aves_aa_4R_auth_0279,adam,,personne,,1,1,8,0.19707,0.213105,0,1
+aves_aa_4R_auth_0280,"pfluger, heintz",,personne,,1,1,8,0.19707,0.213105,0,1
+aves_aa_4R_auth_0281,"kilwart, johanns",,personne,,5,5,8,0.2403,0.262621,704.628474,1
+aves_aa_4R_auth_0282,"würtzel, johanns",,personne,,4,4,8,0.245198,0.264483,718.590929,1
+aves_aa_4R_auth_0283,"basel, von, diebolt",,personne,,6,6,8,0.241879,0.268097,1461.50482,1
+aves_aa_4R_auth_0284,"hüter, johanns",,personne,,3,3,8,0.237562,0.256645,464.940704,1
+aves_aa_4R_auth_0285,"kride, heintz",,personne,,1,1,8,0.19707,0.213105,0,1
+aves_aa_4R_auth_0286,"krapp, johanns",,personne,,1,1,8,0.19707,0.213105,0,1
+aves_aa_4R_auth_0287,"pfettisheim, johanns",,personne,,1,1,10,0.190295,0.208141,0,1
+aves_aa_4R_auth_0288,"eckboltzheim, von, claus",,personne,,1,1,10,0.190295,0.208141,0,1
+aves_aa_4R_auth_0289,"leistmann,",,personne,,1,1,10,0.190295,0.208141,0,1
+aves_aa_4R_auth_0290,"lang, fritsch",,personne,,1,1,10,0.190295,0.208141,0,1
+aves_aa_4R_auth_0291,"beildeck, adam",,personne,,2,2,8,0.211175,0.230821,164.50165,11
+aves_aa_4R_auth_0292,"pfluger, oberlin",,personne,,1,1,10,0.190295,0.208141,0,1
+aves_aa_4R_auth_0293,"stacheler, johanns",,personne,,6,6,8,0.245969,0.272126,2075.347899,14
+aves_aa_4R_auth_0294,"götze, bechtolt",,personne,,3,3,8,0.222677,0.245025,353.145916,1
+aves_aa_4R_auth_0295,"risser, konrat",,personne,,1,1,10,0.190295,0.208141,0,1
+aves_aa_4R_auth_0296,"kutteltzheim, michel, der junge",,personne,,1,1,10,0.190295,0.208141,0,1
+aves_aa_4R_auth_0297,"giger, johanns",,personne,,1,1,10,0.190295,0.208141,0,1
+aves_aa_4R_auth_0298,"meiger, claus",,personne,,1,1,8,0.204012,0.219563,0,1
+aves_aa_4R_auth_0299,"gerbot, johanns",,personne,,5,5,8,0.246843,0.26878,962.787316,14
+aves_aa_4R_auth_0300,"bülle, johanns",,personne,,1,1,8,0.204012,0.219563,0,1
+aves_aa_4R_auth_0301,"hugelin, sankt-martin",,personne,,1,1,8,0.204012,0.219563,0,1
+aves_aa_4R_auth_0302,"stacheler, claus",,personne,,1,1,8,0.204012,0.219563,0,1
+aves_aa_4R_auth_0303,"dreitzehn, diebolt",,personne,,1,1,8,0.204012,0.219563,0,1
+aves_aa_4R_auth_0304,"brüchelin, johanns, klein",,personne,,2,2,8,0.233308,0.248596,152.279109,1
+aves_aa_4R_auth_0305,"träger, oberlin",,personne,4.0,5,5,6,0.255933,0.273688,2927.414389,5
+aves_aa_4R_auth_0306,"dürr, claus",,personne,,6,6,8,0.249501,0.273283,1366.139629,1
+aves_aa_4R_auth_0307,"landolff, jacob",,personne,,1,1,8,0.206028,0.221762,0,11
+aves_aa_4R_auth_0308,"scheubelin, johanns",,personne,,1,1,8,0.206028,0.221762,0,11
+aves_aa_4R_auth_0309,"kalt, johanns",,personne,4.0,5,5,8,0.240855,0.261228,1035.916571,6
+aves_aa_4R_auth_0310,"dentener, johanns",,personne,,1,1,8,0.206028,0.221762,0,11
+aves_aa_4R_auth_0311,"trüchtersheim, von, ruhlemann",,personne,2.0,10,10,6,0.267079,0.29631,9389.197185,0
+aves_aa_4R_auth_0312,"zoller, johanns",,personne,4.0,5,5,6,0.249402,0.269504,1982.766843,11
+aves_aa_4R_auth_0313,"ettenheim, von, claus",,personne,,1,1,8,0.206028,0.221762,0,11
+aves_aa_4R_auth_0314,"fritsch, werde, uff dem",,personne,2.0,10,10,6,0.272668,0.298601,9550.483979,12
+aves_aa_4R_auth_0315,"üsenberg, heintz",,personne,4.0,4,4,8,0.242536,0.261972,2353.479079,11
+aves_aa_4R_auth_0316,"stefan, heinrich",,personne,,3,3,8,0.237022,0.255271,332.327437,11
+aves_aa_4R_auth_0317,"nüffer, behremann",,personne,0.0,2,2,8,0.220324,0.235978,201.636865,11
+aves_aa_4R_auth_0318,"spete, claus",,personne,,1,1,8,0.206028,0.221762,0,11
+aves_aa_4R_auth_0319,"bader, oswalt",,personne,,2,2,8,0.224677,0.241758,149.500494,11
+aves_aa_4R_auth_0320,"schmerwer, andres",,personne,0.0,2,2,8,0.221494,0.236998,291.416763,11
+aves_aa_4R_auth_0321,"lichtenberg, heinrich",,personne,,1,1,8,0.206028,0.221762,0,11
+aves_aa_4R_auth_0322,"harrer, oberlin",,personne,,1,1,8,0.206028,0.221762,0,11
+aves_aa_4R_auth_0323,"dettwiller, claus",,personne,,2,2,8,0.233221,0.24853,160.072479,11
+aves_aa_4R_auth_0324,"mentzer, adam",,personne,,3,3,8,0.237291,0.255537,368.047915,11
+aves_aa_4R_auth_0325,"klige, johanns",,personne,4.0,4,4,6,0.251205,0.267226,1185.818659,11
+aves_aa_4R_auth_0326,bechtolt,,personne,,4,4,8,0.244527,0.264957,723.987753,1
+aves_aa_4R_auth_0327,"duntzenheim, claus",,personne,4.0,8,8,6,0.265155,0.289448,5376.261545,0
+aves_aa_4R_auth_0328,"eckboltzheim, von, johanns",,personne,,3,3,8,0.23141,0.252382,234.071554,1
+aves_aa_4R_auth_0329,"welsch, lienhart",,personne,0.0,2,2,8,0.217792,0.23546,547.762101,1
+aves_aa_4R_auth_0330,"phye, heintz",,personne,,1,1,8,0.210252,0.226004,0,1
+aves_aa_4R_auth_0331,"bergheim, von, claus",,personne,,1,1,8,0.210252,0.226004,0,1
+aves_aa_4R_auth_0332,"heide, küntz",,personne,4.0,5,5,6,0.256458,0.27538,4891.072676,4
+aves_aa_4R_auth_0333,"gotzgans, johanns",,personne,,1,1,8,0.210252,0.226004,0,1
+aves_aa_4R_auth_0334,"trachenfeils, lienhart, der junge",,personne,2.0,13,13,6,0.273622,0.305662,10934.846897,7
+aves_aa_4R_auth_0335,"rheinstett, von, fritsch",,personne,4.0,3,3,7,0.24104,0.256279,1236.941643,5
+aves_aa_4R_auth_0336,"konrat, münster, vor dem",,personne,,1,1,8,0.210252,0.226004,0,1
+aves_aa_4R_auth_0337,"schultheiss, johanns, klein",,personne,,2,2,8,0.223873,0.242731,181.278012,9
+aves_aa_4R_auth_0338,"kerling, jacob",,personne,,2,2,8,0.225975,0.24401,116.282308,1
+aves_aa_4R_auth_0339,"sturmel, peter",,personne,,2,2,8,0.223074,0.240093,91.905947,1
+aves_aa_4R_auth_0340,"breitthor, johanns",,personne,,2,2,8,0.234533,0.250197,180.798013,1
+aves_aa_4R_auth_0341,"phye, reimbolt",,personne,4.0,5,5,6,0.245969,0.266387,2643.93848,4
+aves_aa_4R_auth_0342,"hirtzfelder, heinrich",,personne,,1,1,8,0.208361,0.223943,0,1
+aves_aa_4R_auth_0343,"kühn, johanns",,personne,,2,2,8,0.225894,0.242959,102.534879,4
+aves_aa_4R_auth_0344,"missbach, peter",,personne,4.0,5,5,6,0.2504,0.269091,4463.08134,2
+aves_aa_4R_auth_0345,marx,,personne,,1,1,8,0.208361,0.223943,0,1
+aves_aa_4R_auth_0346,"wissemburg, johanns",,personne,,3,3,8,0.233048,0.252172,207.378159,1
+aves_aa_4R_auth_0347,"kint, heintz",,personne,,1,1,8,0.208361,0.223943,0,1
+aves_aa_4R_auth_0348,"linzer, claus",,personne,3.0,14,14,6,0.285226,0.316307,24790.03958,8
+aves_aa_4R_auth_0349,"armbruster, konrat, pfennigturm, vor dem, der junge",,personne,2.0,15,15,6,0.278371,0.313429,19164.191143,0
+aves_aa_4R_auth_0350,"rosemberg, küntz",,personne,4.0,3,3,8,0.237111,0.253979,943.512108,1
+aves_aa_4R_auth_0351,"monschein, johanns",,personne,4.0,4,4,8,0.243101,0.261666,1102.58661,11
+aves_aa_4R_auth_0352,"schalk, obrecht",,personne,3.0,19,19,6,0.285096,0.322662,27357.104822,13
+aves_aa_4R_auth_0353,"hellen, zur, claus",,personne,4.0,5,5,6,0.253959,0.272395,2790.219675,9
+aves_aa_4R_auth_0354,"scheubelin, johanns",,personne,,1,1,8,0.228118,0.240363,0,1
+aves_aa_4R_auth_0355,"grünwalt, jacob",,personne,,1,1,8,0.228118,0.240363,0,1
+aves_aa_4R_auth_0356,"neuwiller, johanns",,personne,,1,1,8,0.228118,0.240363,0,1
+aves_aa_4R_auth_0357,"armbruster, johanns",,personne,,1,1,8,0.228118,0.240363,0,1
+aves_aa_4R_auth_0358,"kesselring, johanns",,personne,4.0,4,4,8,0.24539,0.263364,740.38249,1
+aves_aa_4R_auth_0359,"giger, johanns",,personne,,1,1,8,0.228118,0.240363,0,1
+aves_aa_4R_auth_0360,"lumbart, johanns, der junge",,personne,1.0,10,10,6,0.275794,0.302465,24527.160011,4
+aves_aa_4R_auth_0361,"riffe, adam",,personne,2.0,12,12,6,0.269845,0.300533,8902.434699,3
+aves_aa_4R_auth_0362,"bischoff, johanns",,personne,,1,1,8,0.217263,0.231302,0,4
+aves_aa_4R_auth_0363,"siffermann,",,personne,,1,1,8,0.217263,0.231302,0,4
+aves_aa_4R_auth_0364,"rotgebe, jacob",,personne,1.0,7,7,6,0.261278,0.284359,3985.592095,11
+aves_aa_4R_auth_0365,"ammelung, johanns",,personne,4.0,5,5,6,0.248906,0.269198,2119.370958,4
+aves_aa_4R_auth_0366,"hellen, zur, johanns",,personne,,3,3,8,0.235682,0.254689,208.805015,4
+aves_aa_4R_auth_0367,"egen, claus",,personne,,1,1,8,0.217263,0.231302,0,4
+aves_aa_4R_auth_0368,"büttener, claus",,personne,,2,2,8,0.233483,0.249085,59.980106,4
+aves_aa_4R_auth_0369,"rohrer, peter",,personne,0.0,3,3,8,0.221259,0.238296,538.471378,2
+aves_aa_4R_auth_0370,"messer, johanns",,personne,,1,1,8,0.217263,0.231302,0,4
+aves_aa_4R_auth_0371,"hochfelden, von, walther",,personne,,1,1,8,0.217263,0.231302,0,4
+aves_aa_4R_auth_0372,"voltz, küntz",,personne,,1,1,8,0.217263,0.231302,0,4
+aves_aa_4R_auth_0373,gebhart,,personne,4.0,4,4,8,0.234709,0.252363,978.293697,4
+aves_aa_4R_auth_0374,"ruhlmann, claus",,personne,,1,1,8,0.215541,0.22977,0,1
+aves_aa_4R_auth_0375,"wingersheim, dielmann",,personne,,3,3,8,0.236038,0.253455,132.847351,1
+aves_aa_4R_auth_0376,michel,,personne,,2,2,8,0.228869,0.244889,48.610132,1
+aves_aa_4R_auth_0377,"volmar, fritsch",,personne,4.0,5,5,8,0.241506,0.261173,2265.130682,9
+aves_aa_4R_auth_0378,"reimbolt, reimbolt, judengasse, in",,personne,,5,5,6,0.25365,0.274074,1435.834712,1
+aves_aa_4R_auth_0379,"müsinger, johanns",,personne,,2,2,8,0.233919,0.249405,45.358065,1
+aves_aa_4R_auth_0380,"messerer, johanns, der junge",,personne,,2,2,8,0.229121,0.24577,55.250812,1
+aves_aa_4R_auth_0381,"villinger, bertsch",,personne,,2,2,8,0.229121,0.24577,55.250812,1
+aves_aa_4R_auth_0382,"peter, gerichte, bei dem",,personne,,1,1,8,0.215541,0.22977,0,1
+aves_aa_4R_auth_0383,"voltz, peter",,personne,0.0,3,3,8,0.224757,0.241636,555.456783,14
+aves_aa_4R_auth_0384,"berse, von, johanns",,personne,1.0,8,8,6,0.265155,0.287144,5483.779858,6
+aves_aa_4R_auth_0385,"wangen, von, johanns",,personne,,1,1,8,0.211175,0.225192,0,1
+aves_aa_4R_auth_0386,"kücheler, bartholomeus",,personne,,3,3,8,0.241692,0.258954,368.896926,1
+aves_aa_4R_auth_0387,"messner, andres",,personne,4.0,4,4,8,0.232961,0.251044,1003.569835,5
+aves_aa_4R_auth_0388,"meiger, johanns",,personne,,4,4,8,0.238649,0.259949,401.078866,1
+aves_aa_4R_auth_0389,"regisheim, claus",,personne,,1,1,8,0.211175,0.225192,0,1
+aves_aa_4R_auth_0390,"hüter, marx",,personne,,2,2,8,0.225243,0.241945,63.473086,1
+aves_aa_4R_auth_0391,"grünwalt, walther",,personne,,1,1,8,0.211175,0.225192,0,1
+aves_aa_4R_auth_0392,"schindeler, küntz",,personne,,3,3,8,0.238195,0.255317,218.525261,1
+aves_aa_4R_auth_0393,"herde, von, andres",,personne,,2,2,8,0.235239,0.250134,101.44876,1
+aves_aa_4R_auth_0394,"bergheim, von, hug",,personne,,1,1,8,0.211175,0.225192,0,1
+aves_aa_4R_auth_0395,"altheim, küntz",,personne,,2,2,8,0.230982,0.247167,73.080527,1
+aves_aa_4R_auth_0396,"müller, thoman",,personne,,1,1,8,0.211175,0.225192,0,1
+aves_aa_4R_auth_0397,"happmacher, jacob",,personne,,1,1,8,0.212538,0.228182,0,9
+aves_aa_4R_auth_0398,"leimer, heinrich",,personne,0.0,2,2,8,0.217037,0.234396,427.694439,9
+aves_aa_4R_auth_0399,"lahr, von, johanns",,personne,4.0,3,3,8,0.238467,0.254477,495.562529,9
+aves_aa_4R_auth_0400,"dreitzehn, reimbolt",,personne,,1,1,8,0.212538,0.228182,0,9
+aves_aa_4R_auth_0401,"morsmünster, von, claus",,personne,,1,1,8,0.212538,0.228182,0,9
+aves_aa_4R_auth_0402,"gerlach,",,personne,,1,1,8,0.212538,0.228182,0,9
+aves_aa_4R_auth_0403,"diener, claus",,personne,,1,1,8,0.212538,0.228182,0,9
+aves_aa_4R_auth_0404,"dusche, fritsch",,personne,,1,1,8,0.212538,0.228182,0,9
+aves_aa_4R_auth_0405,"bernhart, kurbengasse, in",,personne,,2,2,8,0.227372,0.244711,104.852865,9
+aves_aa_4R_auth_0406,"hühnerer, küntz",,personne,,1,1,8,0.212538,0.228182,0,9
+aves_aa_4R_auth_0407,"henneckin, johanns",,personne,0.0,3,3,8,0.222677,0.238564,499.252585,8
+aves_aa_4R_auth_0408,"schertzheim, jerge",,personne,0.0,4,4,8,0.237833,0.255817,1334.685278,11
+aves_aa_4R_auth_0409,"messner, wernher",,personne,,1,1,8,0.212538,0.228182,0,9
+aves_aa_4R_auth_0410,"ricker, claus",,personne,,2,2,8,0.222677,0.241545,86.728487,9
+aves_aa_4R_auth_0411,"dreitzehn, jerge",,personne,0.0,2,2,6,0.230472,0.244418,528.62428,9
+aves_aa_4R_auth_0412,"weipolt, johanns",,personne,1.0,8,8,6,0.257302,0.281402,4696.204658,9
+aves_aa_4R_auth_0413,"mentz, von, küntz, duchscherer",,personne,4.0,7,7,6,0.258258,0.279736,3978.571431,4
+aves_aa_4R_auth_0414,"seltz, von, johanns",,personne,,1,1,8,0.220713,0.233915,0,14
+aves_aa_4R_auth_0415,"berse, von, lexius",,personne,,1,1,8,0.220713,0.233915,0,14
+aves_aa_4R_auth_0416,"meiger, heinrich",,personne,,2,2,8,0.230387,0.245958,46.995675,14
+aves_aa_4R_auth_0417,"ludemann, claus",,personne,,2,2,6,0.241879,0.255502,142.869052,14
+aves_aa_4R_auth_0418,"bleiweger, diebolt",,personne,,5,5,8,0.24694,0.26796,627.324825,14
+aves_aa_4R_auth_0419,"sifrit, werde, uff dem",,personne,,1,1,8,0.220713,0.233915,0,14
+aves_aa_4R_auth_0420,"brant, lauwel",,personne,,1,1,8,0.220713,0.233915,0,14
+aves_aa_4R_auth_0421,"rohrer, marx",,personne,4.0,10,10,6,0.260842,0.289542,7273.450349,2
+aves_aa_4R_auth_0422,"koch, johanns, der alte",,personne,4.0,3,3,8,0.240023,0.256156,555.184866,14
+aves_aa_4R_auth_0423,"haffener, sixt",,personne,0.0,2,2,8,0.226302,0.240829,306.584262,14
+aves_aa_4R_auth_0424,"hettemann, johanns",,personne,2.0,11,11,6,0.26834,0.296123,6104.717282,5
+aves_aa_4R_auth_0425,"kempf, claus",,personne,1.0,8,8,6,0.255933,0.280309,4234.153778,4
+aves_aa_4R_auth_0426,"bitsch, johanns",,personne,0.0,2,2,8,0.225162,0.239533,225.256477,1
+aves_aa_4R_auth_0427,"klein, johanns",,personne,4.0,7,7,6,0.259975,0.280096,3886.424749,6
+aves_aa_4R_auth_0428,"windeck, heinrich",,personne,,1,1,8,0.216361,0.230673,0,1
+aves_aa_4R_auth_0429,"desche, heinrich",,personne,,1,1,8,0.216361,0.230673,0,1
+aves_aa_4R_auth_0430,"kiebel, johanns",,personne,,1,1,8,0.216361,0.230673,0,1
+aves_aa_4R_auth_0431,"speich, andres",,personne,,1,1,8,0.216361,0.230673,0,1
+aves_aa_4R_auth_0432,"pfaffe, claus",,personne,4.0,4,4,8,0.234797,0.253088,2085.022413,11
+aves_aa_4R_auth_0433,"konrat, münster, vor dem",,personne,,1,1,8,0.216361,0.230673,0,1
+aves_aa_4R_auth_0434,"binnting, walther",,personne,,1,1,8,0.216361,0.230673,0,1
+aves_aa_4R_auth_0435,gabriel,,personne,,5,5,8,0.2499,0.270358,638.752238,1
+aves_aa_4R_auth_0436,"meister, johanns",,personne,,2,2,8,0.230812,0.247455,43.096188,1
+aves_aa_4R_auth_0437,"dahlheim, heinrich",,personne,,1,1,8,0.211032,0.226813,0,1
+aves_aa_4R_auth_0438,"bergheim, von, johanns, der junge",,personne,0.0,2,2,8,0.220246,0.235531,476.29073,6
+aves_aa_4R_auth_0439,"leutesheim, johanns",,personne,0.0,3,3,8,0.229879,0.246718,677.066469,4
+aves_aa_4R_auth_0440,"wolff, johanns",,personne,0.0,3,3,8,0.217037,0.235677,523.418079,2
+aves_aa_4R_auth_0441,"barpfennig, marx",,personne,0.0,3,3,8,0.227869,0.244506,495.291437,14
+aves_aa_4R_auth_0442,"lamperter, johanns",,personne,,1,1,8,0.213627,0.229181,0,5
+aves_aa_4R_auth_0443,"kücheler, claus",,personne,0.0,2,2,8,0.225894,0.240129,200.660408,0
+aves_aa_4R_auth_0444,"rohr, von, claus",,personne,,2,2,8,0.225894,0.244561,75.0957,5
+aves_aa_4R_auth_0445,"klaue, jacob",,personne,1.0,6,6,6,0.248807,0.271037,2355.950992,8
+aves_aa_4R_auth_0446,"diebolt, peter",,personne,,1,1,8,0.213627,0.229181,0,5
+aves_aa_4R_auth_0447,"schüffel, heintz, eber, zum",,personne,,1,1,8,0.213627,0.229181,0,5
+aves_aa_4R_auth_0448,"girbaden, johanns",,personne,0.0,2,2,8,0.224596,0.23975,218.58111,14
+aves_aa_4R_auth_0449,"lang, johanns",,personne,,1,1,8,0.213627,0.229181,0,5
+aves_aa_4R_auth_0450,"paulus, johanns",,personne,1.0,7,7,6,0.256352,0.279949,2946.662926,5
+aves_aa_4R_auth_0451,"kress, konrat",,personne,,1,1,8,0.213627,0.229181,0,5
+aves_aa_4R_auth_0452,"bidermann, claus",,personne,1.0,4,4,7,0.246163,0.263677,3314.705827,9
+aves_aa_4R_auth_0453,"winsticher, erhart",,personne,1.0,5,5,6,0.2503,0.269678,1624.271756,12
+aves_aa_4R_auth_0454,"schlempe, heinrich",,personne,0.0,3,3,8,0.22971,0.246212,534.57854,14
+aves_aa_4R_auth_0455,"sporer, jacob",,personne,4.0,3,3,8,0.234621,0.252436,471.341018,8
+aves_aa_4R_auth_0456,"lang, claus",,personne,0.0,2,2,8,0.228285,0.24234,217.241458,0
+aves_aa_4R_auth_0457,"wile, von, sifrit",,personne,,1,1,8,0.214948,0.23054,0,14
+aves_aa_4R_auth_0458,"rippel, michel",,personne,4.0,3,3,8,0.228869,0.246949,507.273883,12
+aves_aa_4R_auth_0459,"reimbolt, johanns",,personne,,2,2,8,0.238195,0.252945,100.102493,14
+aves_aa_4R_auth_0460,"peter, johanns",,personne,4.0,4,4,6,0.243575,0.259885,2245.721812,8
+aves_aa_4R_auth_0461,"siffermann, burkhart",,personne,4.0,3,3,8,0.234974,0.252568,495.101719,8
+aves_aa_4R_auth_0462,"hebnagel, johanns",,personne,0.0,2,2,8,0.226548,0.241549,234.049539,14
+aves_aa_4R_auth_0463,"haffener, jacob",,personne,0.0,2,2,8,0.222915,0.238721,317.69991,14
+aves_aa_4R_auth_0464,"herbst, peter",,personne,4.0,5,5,8,0.245198,0.264456,2194.661987,9
+aves_aa_4R_auth_0465,"fuchs, oberlin",,personne,,1,1,8,0.214948,0.23054,0,14
+aves_aa_4R_auth_0466,"lampertheim, von, ulrich",,personne,4.0,4,4,6,0.244241,0.259859,1139.125615,4
+aves_aa_4R_auth_0467,"dingsheim, johanns",,personne,1.0,4,4,6,0.244623,0.263016,871.53317,1
+aves_aa_4R_auth_0468,"bösch, bechtolt",,personne,,1,1,8,0.227124,0.239703,0,3
+aves_aa_4R_auth_0469,"altzheim, von, johanns",,personne,1.0,5,5,6,0.246746,0.266667,2490.921396,2
+aves_aa_4R_auth_0470,"rohr, von, peter",,personne,1.0,4,4,6,0.2501,0.266147,3880.250158,1
+aves_aa_4R_auth_0471,"michel, sankt-stefans plan, auf",,personne,0.0,3,3,8,0.230217,0.245618,565.646217,2
+aves_aa_4R_auth_0472,"rhinau, johanns",,personne,,1,1,8,0.227124,0.239703,0,3
+aves_aa_4R_auth_0473,"freund, claus",,personne,1.0,6,6,6,0.249701,0.270357,2785.354566,4
+aves_aa_4R_auth_0474,"brechter, bechtolt",,personne,,1,1,8,0.220479,0.234706,0,14
+aves_aa_4R_auth_0475,"leistmann, dietrich",,personne,0.0,3,3,6,0.239563,0.256235,864.995756,11
+aves_aa_4R_auth_0476,götze,,personne,,1,1,8,0.220479,0.234706,0,14
+aves_aa_4R_auth_0477,"hechde, johanns",,personne,4.0,8,8,6,0.252727,0.275913,6299.695127,11
+aves_aa_4R_auth_0478,"duntzenheim, claus",,personne,4.0,4,4,8,0.237291,0.254597,950.834312,8
+aves_aa_4R_auth_0479,"diebolt, johanns",,personne,0.0,4,4,6,0.23938,0.256821,1881.628751,11
+aves_aa_4R_auth_0480,"hirtzfelder, johanns",,personne,4.0,4,4,6,0.24626,0.264628,891.48927,8
+aves_aa_4R_auth_0481,"träger, johanns",,personne,1.0,4,4,6,0.246648,0.264748,998.33001,5
+aves_aa_4R_auth_0482,"sturm, erhart",,personne,,1,1,8,0.220479,0.234706,0,14
+aves_aa_4R_auth_0483,sigel,,personne,,1,1,8,0.220479,0.234706,0,14
+aves_aa_4R_auth_0484,"herrenstein, johanns",,personne,,1,1,8,0.220479,0.234706,0,14
+aves_aa_4R_auth_0485,"mommenheim, von, jacob",,personne,,1,1,8,0.220479,0.234706,0,14
+aves_aa_4R_auth_0486,"wernher, steinstrasse, an der",,personne,1.0,4,4,6,0.244431,0.26287,660.082813,1
+aves_aa_4R_auth_0487,"bösch, friedrich",,personne,0.0,2,2,8,0.221181,0.236608,283.859257,6
+aves_aa_4R_auth_0488,"rippel, michel, der junge",,personne,3.0,13,13,6,0.265944,0.29972,8483.524893,12
+aves_aa_4R_auth_0489,"johanns, hirtz, zum",,personne,,3,3,8,0.239655,0.256422,108.299412,5
+aves_aa_4R_auth_0490,"schnabel, heinrich",,personne,0.0,3,3,8,0.223313,0.240378,648.000574,2
+aves_aa_4R_auth_0491,"lamprecht, peter",,personne,0.0,3,3,8,0.224354,0.240163,657.180203,8
+aves_aa_4R_auth_0492,"oberkirch, von, johanns",,personne,,1,1,8,0.220246,0.23397,0,3
+aves_aa_4R_auth_0493,"trachenfeils, johanns",,personne,3.0,14,14,6,0.267765,0.301599,11714.09865,8
+aves_aa_4R_auth_0494,"könig, claus",,personne,4.0,3,3,6,0.243291,0.258646,456.765493,14
+aves_aa_4R_auth_0495,"seger, johanns",,personne,4.0,4,4,6,0.248313,0.265574,1193.859425,14
+aves_aa_4R_auth_0496,"liebkint, oberlin",,personne,0.0,3,3,6,0.243955,0.259286,549.417531,5
+aves_aa_4R_auth_0497,"ernoltzheim, von, claus",,personne,,1,1,8,0.220246,0.23397,0,3
+aves_aa_4R_auth_0498,"böschwiller, claus",,personne,0.0,4,4,7,0.238014,0.256589,937.286335,14
+aves_aa_4R_auth_0499,"ettenheim, von, mathis",,personne,0.0,2,2,8,0.225,0.24048,167.09903,8
+aves_aa_4R_auth_0500,"meiger, heinrich",,personne,1.0,11,11,6,0.265042,0.294524,7460.351194,1
+aves_aa_4R_auth_0501,"berner, frantz",,personne,0.0,3,3,8,0.230812,0.24773,551.438586,4
+aves_aa_4R_auth_0502,"birbaum, heinrich",,personne,1.0,6,6,6,0.252421,0.273794,1640.716636,2
+aves_aa_4R_auth_0503,"steinstrasse, an der, khurin, steinstrasse, an der",,personne,,2,2,8,0.234709,0.249782,56.711073,2
+aves_aa_4R_auth_0504,"graff, anshelm",,personne,4.0,4,4,6,0.239655,0.256275,2027.265397,11
+aves_aa_4R_auth_0505,"spiegel, johanns",,personne,3.0,9,9,6,0.262484,0.288889,3976.528666,7
+aves_aa_4R_auth_0506,"brant, diebolt",,personne,3.0,9,9,6,0.264482,0.290314,5885.931594,12
+aves_aa_4R_auth_0507,"gerbot, peter",,personne,4.0,3,3,6,0.247331,0.261857,584.554966,5
+aves_aa_4R_auth_0508,"klein, johanns",,personne,,1,1,8,0.215764,0.23118,0,7
+aves_aa_4R_auth_0509,"betscholt, wilhelm",,personne,3.0,12,12,6,0.262044,0.29162,5398.72056,6
+aves_aa_4R_auth_0510,"baumgarter, erhart",,personne,1.0,5,5,6,0.242913,0.262177,2022.124536,5
+aves_aa_4R_auth_0511,"zerig, sifrit",,personne,1.0,6,6,6,0.252932,0.275087,2709.749435,11
+aves_aa_4R_auth_0512,"lahr, von, mathis",,personne,,1,1,8,0.228869,0.241541,0,5
+aves_aa_4R_auth_0513,"ott, johanns",,personne,0.0,3,3,8,0.230897,0.24691,774.258298,2
+aves_aa_4R_auth_0514,"stumpf, johanns",,personne,4.0,3,3,6,0.244241,0.25894,300.788162,1
+aves_aa_4R_auth_0515,"fachmann, claus",,personne,0.0,3,3,8,0.232614,0.24747,638.503396,11
+aves_aa_4R_auth_0516,"molsheim, von, johanns, der junge",,personne,0.0,4,4,8,0.236573,0.254691,1208.27987,2
+aves_aa_4R_auth_0517,"klaumann, claus",,personne,,1,1,8,0.228869,0.241541,0,5
+aves_aa_4R_auth_0518,"spielmann, johanns",,personne,3.0,10,10,6,0.260516,0.287903,8699.540139,5
+aves_aa_4R_auth_0519,"schwencker, johanns",,personne,1.0,8,8,6,0.255724,0.278817,8783.019053,9
+aves_aa_4R_auth_0520,"dürningen, von, sigel",,personne,4.0,6,6,6,0.251609,0.271743,1288.094249,6
+aves_aa_4R_auth_0521,"klige, küntz",,personne,1.0,7,7,6,0.252319,0.274634,1321.807568,5
+aves_aa_4R_auth_0522,"wormser, jacob",,personne,3.0,13,13,6,0.26538,0.297962,9078.981744,13
+aves_aa_4R_auth_0523,"berse, von, konrat",,personne,0.0,3,3,8,0.226877,0.242428,165.882108,6
+aves_aa_4R_auth_0524,"brettler, johanns",,personne,1.0,5,5,6,0.248708,0.268732,1137.458499,1
+aves_aa_4R_auth_0525,"odratzheim, johanns",,personne,,2,2,8,0.228285,0.245332,116.074054,9
+aves_aa_4R_auth_0526,"issenhausen, von, erhart",,personne,0.0,2,2,6,0.227703,0.24206,161.621413,0
+aves_aa_4R_auth_0527,"zabern, von, sifrit",,personne,1.0,5,5,6,0.241226,0.262963,1439.9501,6
+aves_aa_4R_auth_0528,"spirer, diebolt",,personne,1.0,4,4,6,0.237291,0.256954,1293.811168,9
+aves_aa_4R_auth_0529,"freiburger, jacob",,personne,0.0,3,3,8,0.226057,0.242881,810.830844,2
+aves_aa_4R_auth_0530,"hage, walther, kettener, zum",,personne,,1,1,8,0.22244,0.235993,0,3
+aves_aa_4R_auth_0531,"kork, von, peter",,personne,3.0,9,9,6,0.258045,0.285478,6939.506032,14
+aves_aa_4R_auth_0532,"schuttern, von, wilhelm",,personne,0.0,2,2,8,0.227372,0.242148,280.580871,14
+aves_aa_4R_auth_0533,"gemersheim, von, johanns",,personne,,1,1,8,0.22244,0.235993,0,3
+aves_aa_4R_auth_0534,"meistersheim, johanns",,personne,0.0,4,4,6,0.242442,0.25794,409.173362,6
+aves_aa_4R_auth_0535,"wormser, völtz",,personne,1.0,6,6,6,0.244431,0.265761,1101.612972,6
+aves_aa_4R_auth_0536,"walt, johanns",,personne,1.0,5,5,6,0.249701,0.268825,1711.432873,6
+aves_aa_4R_auth_0537,"schmalriem, adolff",,personne,0.0,3,3,8,0.219705,0.238633,612.759623,2
+aves_aa_4R_auth_0538,"hirt, johanns",,personne,0.0,4,4,6,0.238923,0.255502,1379.106164,8
+aves_aa_4R_auth_0539,"brümath, von, peter",,personne,0.0,3,3,8,0.220791,0.239246,427.391774,2
+aves_aa_4R_auth_0540,"sasbach, konrat",,personne,0.0,3,3,6,0.238923,0.255076,633.816892,5
+aves_aa_4R_auth_0541,"hesse, johanns",,personne,,1,1,8,0.217565,0.232917,0,0
+aves_aa_4R_auth_0542,"hügeler, bechtolt",,personne,0.0,4,4,8,0.233483,0.251921,881.053714,4
+aves_aa_4R_auth_0543,"happmacher, andres",,personne,0.0,3,3,6,0.234709,0.250306,495.734922,14
+aves_aa_4R_auth_0544,"haslach von, mathis",,personne,0.0,3,3,6,0.233135,0.247509,233.095172,6
+aves_aa_4R_auth_0545,"holtzhauser, heintz",,personne,1.0,5,5,6,0.247233,0.26672,1178.019479,1
+aves_aa_4R_auth_0546,"minner, johanns",,personne,1.0,6,6,6,0.247429,0.269531,1420.500622,0
+aves_aa_4R_auth_0547,"lumbart, stefan",,personne,0.0,3,3,6,0.234621,0.251026,681.755218,4
+aves_aa_4R_auth_0548,"wissensee, claus",,personne,3.0,10,10,6,0.259544,0.288822,6067.622641,9
+aves_aa_4R_auth_0549,"melbrühe, johanns",,personne,3.0,12,12,6,0.257407,0.289182,4176.419598,1
+aves_aa_4R_auth_0550,"andres, pfennigturm, vor dem",,personne,0.0,3,3,6,0.232355,0.247589,950.447595,2
+aves_aa_4R_auth_0551,"seidenfaden, friedrich",,personne,1.0,6,6,6,0.253444,0.273954,3178.047908,13
+aves_aa_4R_auth_0552,"claus, johanns",,personne,1.0,7,7,6,0.25171,0.273688,26474.231738,10
+aves_aa_4R_auth_0553,"gottfriet, fritsch",,personne,0.0,4,4,6,0.240669,0.257461,1193.030079,9
+aves_aa_4R_auth_0554,"baumgarter, claus",,personne,,15,15,6,0.26857,0.302931,40524.826922,10
+aves_aa_4R_auth_0555,"weidemann, johanns",,personne,1.0,5,5,6,0.247821,0.267479,2216.69385,6
+aves_aa_4R_auth_0556,"armbruster, johanns, brantgasse, in",,personne,0.0,3,3,6,0.240392,0.255436,546.908809,4
+aves_aa_4R_auth_0557,"studel, johanns",,personne,1.0,5,5,6,0.245294,0.263736,3533.055962,11
+aves_aa_4R_auth_0558,"schlettstadt, von, johanns",,personne,0.0,3,3,6,0.235327,0.250413,1248.658164,2
+aves_aa_4R_auth_0559,"trachenfeils, diebolt",,personne,0.0,3,3,6,0.23938,0.255955,541.879072,8
+aves_aa_4R_auth_0560,"barpfennig, rudolff",,personne,0.0,3,3,8,0.223792,0.241398,271.834547,14
+aves_aa_4R_auth_0561,"reimbolt, diebolt",,personne,,9,9,6,0.254682,0.282547,3998.280962,7
+aves_aa_4R_auth_0562,"bellheim, von, claus",,personne,0.0,2,2,8,0.222045,0.238248,219.493038,1
+aves_aa_4R_auth_0563,"brettler, heinrich",,personne,,3,3,7,0.233048,0.251715,270.817361,12
+aves_aa_4R_auth_0564,"kriegsheim, claus",,personne,0.0,2,2,8,0.223553,0.239173,106.204696,1
+aves_aa_4R_auth_0565,"pfaffe, johanns",,personne,,1,1,8,0.217868,0.23212,0,7
+aves_aa_4R_auth_0566,"wile, von, johanns",,personne,1.0,4,4,8,0.234533,0.256089,701.868587,14
+aves_aa_4R_auth_0567,"molsheim, von, johanns",,personne,0.0,3,3,8,0.222519,0.239019,752.193455,9
+aves_aa_4R_auth_0568,"förster, symont",,personne,3.0,10,10,6,0.251205,0.281575,3313.29285,8
+aves_aa_4R_auth_0569,"sachsen, stefan",,personne,0.0,3,3,6,0.233048,0.249041,410.206248,14
+aves_aa_4R_auth_0570,"dürr, walther",,personne,3.0,8,8,6,0.257619,0.281881,4156.782625,8
+aves_aa_4R_auth_0571,"vendenheim, johanns, der alte",,personne,3.0,10,10,6,0.260191,0.288396,14968.795726,0
+aves_aa_4R_auth_0572,"trüchtersheim, von, eberhart",,personne,0.0,3,3,8,0.230387,0.245045,582.426854,5
+aves_aa_4R_auth_0573,"molsheim, von, michel",,personne,,6,6,6,0.248708,0.271023,2708.185189,13
+aves_aa_4R_auth_0574,"spirer, johanns",,personne,1.0,5,5,6,0.242818,0.264695,1966.651102,9
+aves_aa_4R_auth_0575,"griffe, heinrich",,personne,1.0,3,3,6,0.237833,0.254463,310.75305,1
+aves_aa_4R_auth_0576,"lusche, claus",,personne,0.0,3,3,8,0.229289,0.244672,873.885347,11
+aves_aa_4R_auth_0577,"wurtzgarten, johanns",,personne,0.0,3,3,8,0.230387,0.246111,575.964134,2
+aves_aa_4R_auth_0578,"seiler, zum, johanns",,personne,,2,2,6,0.230812,0.246843,82.283452,9
+aves_aa_4R_auth_0579,"bellheim, von, jacob",,personne,0.0,2,2,8,0.223712,0.238818,407.715835,9
+aves_aa_4R_auth_0580,"schnabel, heinrich",,personne,,1,1,8,0.220791,0.234341,0,2
+aves_aa_4R_auth_0581,"bisinger, heinrich",,personne,,3,3,7,0.231581,0.250727,223.014699,8
+aves_aa_4R_auth_0582,"ganser, michel",,personne,0.0,3,3,7,0.22244,0.237991,399.785724,6
+aves_aa_4R_auth_0583,"müseler, reimbolt",,personne,1.0,5,5,7,0.245583,0.265875,9270.822736,4
+aves_aa_4R_auth_0584,"götze, johanns",,personne,0.0,2,2,8,0.227455,0.242535,1333.564811,11
+aves_aa_4R_auth_0585,"ross, johanns",,personne,,8,8,6,0.251003,0.277525,3760.509333,2
+aves_aa_4R_auth_0586,"mönchelin, bernhart",,personne,,1,1,8,0.220791,0.234341,0,2
+aves_aa_4R_auth_0587,"thann, von, johanns",,personne,0.0,2,2,7,0.224194,0.239469,166.914796,14
+aves_aa_4R_auth_0588,"klammann, oswalt",,personne,,1,1,8,0.220791,0.234341,0,2
+aves_aa_4R_auth_0589,"rhein, zum, johanns",,personne,,1,1,8,0.220791,0.234341,0,2
+aves_aa_4R_auth_0590,"kiebel, ulrich",,personne,1.0,4,4,7,0.231924,0.250354,962.829422,9
+aves_aa_4R_auth_0591,"riffe, konrat",,personne,,11,11,7,0.242818,0.275561,9177.943424,10
+aves_aa_4R_auth_0592,"erfurt, von, claus",,personne,0.0,2,2,7,0.224113,0.23953,467.094117,9
+aves_aa_4R_auth_0593,"geispoltzheim, von, wilhelm",,personne,0.0,2,2,7,0.222519,0.237665,261.428979,12
+aves_aa_4R_auth_0594,"zweibrücken, von, johanns",,personne,,1,1,7,0.218783,0.232776,0,7
+aves_aa_4R_auth_0595,"ernst, martin",,personne,1.0,4,4,7,0.228451,0.24819,1835.348738,2
+aves_aa_4R_auth_0596,"trense, johanns",,personne,,3,3,7,0.227289,0.246698,118.028168,9
+aves_aa_4R_auth_0597,"sundheim, michel",,personne,0.0,3,3,7,0.227537,0.24324,1212.406466,11
+aves_aa_4R_auth_0598,"hettemann, diebolt",,personne,,7,7,7,0.241226,0.269086,1814.554836,8
+aves_aa_4R_auth_0599,"wormser, bernhart",,personne,,1,1,8,0.212755,0.226837,0,8
+aves_aa_4R_auth_0600,"bruder, stoffelus",,personne,1.0,5,5,6,0.228618,0.249201,1867.880529,5
+aves_aa_4R_auth_0601,"kacheler, friedrich",,personne,1.0,5,5,6,0.236752,0.256968,2780.988157,6
+aves_aa_4R_auth_0602,"hüss, johanns",,personne,0.0,2,2,8,0.220014,0.235816,254.684015,11
+aves_aa_4R_auth_0603,"doppeler, caspar",,personne,,1,1,8,0.212755,0.226837,0,8
+aves_aa_4R_auth_0604,"bosterer, johanns",,personne,,2,2,7,0.221025,0.238352,74.346627,8
+aves_aa_4R_auth_0605,"löwe, jacob",,personne,0.0,3,3,8,0.216961,0.234564,689.760779,2
+aves_aa_4R_auth_0606,"schiltigheim, von, andres",,personne,,2,2,7,0.221025,0.238352,74.346627,8
+aves_aa_4R_auth_0607,"dreitzehn, claus",,personne,,4,4,6,0.232355,0.253144,246.753172,8
+aves_aa_4R_auth_0608,"hartung, johanns",,personne,,1,1,8,0.212755,0.226837,0,8
+aves_aa_4R_auth_0609,"ersam, johanns",,personne,0.0,3,3,8,0.214286,0.230887,467.111721,8
+aves_aa_4R_auth_0610,"marckoltzheim, von, johanns",,personne,,5,5,6,0.234182,0.25854,685.680049,9
+aves_aa_4R_auth_0611,"waldener, jacob",,personne,,1,1,7,0.216961,0.230897,0,0
+aves_aa_4R_auth_0612,"ackerfuss, claus",,personne,,1,1,7,0.216961,0.230897,0,0
+aves_aa_4R_auth_0613,"hage, jacob",,personne,1.0,5,5,6,0.232787,0.255196,1134.03397,4
+aves_aa_4R_auth_0614,"heiligenstein, von, anthenie",,personne,,4,4,7,0.226221,0.24815,208.370086,9
+aves_aa_4R_auth_0615,"joham, konrat",,personne,,1,1,7,0.216961,0.230897,0,0
+aves_aa_4R_auth_0616,"hertzog, johanns",,personne,,3,3,7,0.22663,0.245398,110.687938,12
+aves_aa_4R_auth_0617,"ersam, johanns",,personne,,4,4,7,0.227455,0.248417,221.846832,12
+aves_aa_4R_auth_0618,"ammeler, ebelin",,personne,,1,1,7,0.216961,0.230897,0,0
+aves_aa_4R_auth_0619,"voltz, johanns",,personne,,6,6,7,0.238558,0.263344,1356.31646,10
+aves_aa_4R_auth_0620,"nüger, claus",,personne,,1,1,7,0.207051,0.221088,0,8
+aves_aa_4R_auth_0621,"kacheler, johanns",,personne,,7,7,7,0.236573,0.263104,1985.626799,8
+aves_aa_4R_auth_0622,"holniet, johanns",,personne,,5,5,7,0.237291,0.261359,1409.973105,8
+aves_aa_4R_auth_0623,"doppeler, johanns-jerge",,personne,,1,1,7,0.207051,0.221088,0,8
+aves_aa_4R_auth_0624,"münster, heinrich",,personne,,1,1,7,0.207051,0.221088,0,8
+aves_aa_4R_auth_0625,"wentscher, johanns",,personne,,1,1,7,0.207051,0.221088,0,8
+aves_aa_4R_auth_0626,"berner, peter",,personne,0.0,3,3,7,0.21261,0.230281,738.121811,2
+aves_aa_4R_auth_0627,"dossenheim, claus",,personne,,4,4,7,0.23201,0.253359,443.011083,8
+aves_aa_4R_auth_0628,"bülher, johanns",,personne,,1,1,7,0.207051,0.221088,0,8
+aves_aa_4R_auth_0629,"ostertag, völtz",,personne,,1,1,7,0.207051,0.221088,0,8
+aves_aa_4R_auth_0630,"neuenburg, von der, johanns",,personne,0.0,2,2,7,0.215393,0.231346,182.485194,5
+aves_aa_4R_auth_0631,"frank, johanns",,personne,0.0,2,2,8,0.216886,0.23275,169.668881,8
+aves_aa_4R_auth_0632,"pfaffenheim, sifrit",,personne,,4,4,7,0.225324,0.247863,232.427175,6
+aves_aa_4R_auth_0633,"bitsch, claus",,personne,,3,3,7,0.220635,0.240716,724.141519,10
+aves_aa_4R_auth_0634,"barpfennig, rudolff",,personne,,1,1,8,0.205149,0.219328,0,9
+aves_aa_4R_auth_0635,"messerschmit, johanns-erhart",,personne,,1,1,8,0.205149,0.219328,0,9
+aves_aa_4R_auth_0636,"krosswiller, johanns",,personne,,3,3,7,0.225812,0.244766,237.489449,9
+aves_aa_4R_auth_0637,"lohel, burkhart",,personne,,1,1,8,0.205149,0.219328,0,9
+aves_aa_4R_auth_0638,"metziger, heinrich",,personne,,5,5,7,0.234797,0.258015,868.338564,9
+aves_aa_4R_auth_0639,"wolff, jerge",,personne,0.0,3,3,8,0.214727,0.232078,470.54061,2
+aves_aa_4R_auth_0640,"gengenbach, von, claus",,personne,,1,1,8,0.205149,0.219328,0,9
+aves_aa_4R_auth_0641,"nordhausen, von, johanns",,personne,0.0,3,3,7,0.224919,0.241921,385.276558,14
+aves_aa_4R_auth_0642,"berse, von, claus",,personne,,3,3,7,0.223873,0.24316,97.402703,12
+aves_aa_4R_auth_0643,"vetter, jerge",,personne,,2,2,7,0.220557,0.237564,30.500425,8
+aves_aa_4R_auth_0644,"beingewant, claus",,personne,,10,10,7,0.24405,0.275241,3152.467298,8
+aves_aa_4R_auth_0645,"lahr, von, johanns",,personne,,1,1,7,0.216062,0.229877,0,8
+aves_aa_4R_auth_0646,"lamb, bechtolt",,personne,0.0,3,3,6,0.225243,0.240914,1031.603084,11
+aves_aa_4R_auth_0647,"scheubelin, peter",,personne,,3,3,7,0.228618,0.24713,120.349318,13
+aves_aa_4R_auth_0648,"umb und umb, johanns",,personne,,7,7,7,0.233135,0.258547,1558.077252,10
+aves_aa_4R_auth_0649,"recker, ulrich",,personne,,1,1,7,0.216062,0.229877,0,8
+aves_aa_4R_auth_0650,"gemersheim, von, andres",,personne,1.0,5,5,7,0.226713,0.248129,1470.985231,9
+aves_aa_4R_auth_0651,"keinne, bechtolt",,personne,,2,2,7,0.222519,0.239842,36.400297,8
+aves_aa_4R_auth_0652,"stange, erhart",,personne,0.0,3,3,8,0.218706,0.23636,250.636842,14
+aves_aa_4R_auth_0653,"diebolt, johanns",,personne,,1,1,8,0.208292,0.222459,0,13
+aves_aa_4R_auth_0654,"barre, von, claus",,personne,0.0,2,2,8,0.219551,0.235108,157.422622,1
+aves_aa_4R_auth_0655,"renner, claus",,personne,,3,3,7,0.231924,0.250354,310.024275,10
+aves_aa_4R_auth_0656,"jungeling, heinrich",,personne,,1,1,8,0.208292,0.222459,0,13
+aves_aa_4R_auth_0657,"reimbolt, oberlin",,personne,,1,1,8,0.208292,0.222459,0,13
+aves_aa_4R_auth_0658,"vendenheim, claus",,personne,0.0,2,2,8,0.215839,0.231663,100.045403,1
+aves_aa_4R_auth_0659,"sankt-arbogast, ulrich",,personne,,3,3,7,0.222915,0.242054,105.983722,12
+aves_aa_4R_auth_0660,"herbst, claus",,personne,,7,7,7,0.235416,0.261465,1782.235183,10
+aves_aa_4R_auth_0661,"arge, peter",,personne,1.0,5,5,7,0.230387,0.25212,1205.65152,14
+aves_aa_4R_auth_0662,"burer, ulrich",,personne,,9,9,7,0.236932,0.265755,2994.902797,12
+aves_aa_4R_auth_0663,"offenburg, götze",,personne,0.0,3,3,7,0.222756,0.238563,162.026827,6
+aves_aa_4R_auth_0664,"wingersheim, stefan",,personne,,7,7,7,0.234974,0.260559,1180.916808,10
+aves_aa_4R_auth_0665,"freiburger, jacob",,personne,,1,1,7,0.213554,0.227806,0,12
+aves_aa_4R_auth_0666,"bösch, engelhart",,personne,,1,1,7,0.213554,0.227806,0,12
+aves_aa_4R_auth_0667,"ammelung, jacob",,personne,0.0,3,3,7,0.224596,0.242693,562.21516,4
+aves_aa_4R_auth_0668,"wolff, claus",,personne,,3,3,7,0.219937,0.23929,74.210149,12
+aves_aa_4R_auth_0669,"fegersheim, johanns",,personne,0.0,3,3,7,0.218936,0.236493,1200.709046,2
+aves_aa_4R_auth_0670,"wolff, friedrich",,personne,,6,6,7,0.233308,0.258542,1824.764452,13
+aves_aa_4R_auth_0671,"brüchelin, johanns-diebolt",,personne,,3,3,7,0.222202,0.241129,72.592316,13
+aves_aa_4R_auth_0672,"ernoltzheim, von, claus",,personne,0.0,2,2,7,0.220479,0.236352,225.053551,8
+aves_aa_4R_auth_0673,"bergheim, von, johanns",,personne,0.0,3,3,7,0.217037,0.233975,443.505136,9
+aves_aa_4R_auth_0674,"betscholt, friedrich",,personne,,2,2,7,0.21517,0.231889,14.137753,8
+aves_aa_4R_auth_0675,"rippel, michel",,personne,,1,1,7,0.210323,0.224316,0,8
+aves_aa_4R_auth_0676,"vogt, walther",,personne,,6,6,7,0.233919,0.258361,839.536999,8
+aves_aa_4R_auth_0677,"schultheiss, claus, wein-und-brot",,personne,,2,2,7,0.21517,0.231889,14.137753,8
+aves_aa_4R_auth_0678,"graff, johanns",,personne,,1,1,7,0.210323,0.224316,0,8
+aves_aa_4R_auth_0679,"worms, von, claus",,personne,,2,2,7,0.21517,0.231889,14.137753,8
+aves_aa_4R_auth_0680,"dürningen, von, wernher",,personne,,2,2,7,0.21517,0.231889,14.137753,8
+aves_aa_4R_auth_0681,"steinhart, johanns",,personne,,5,5,7,0.234974,0.258015,521.729289,8
+aves_aa_4R_auth_0682,"desche, johanns-heinrich",,personne,,2,2,7,0.214066,0.230503,10.505171,6
+aves_aa_4R_auth_0683,"rippel, bernhart",,personne,,1,1,8,0.203349,0.218028,0,8
+aves_aa_4R_auth_0684,"dolle, bechtolt",,personne,,2,2,7,0.214066,0.230503,10.505171,6
+aves_aa_4R_auth_0685,"helwig, sifrit",,personne,,2,2,7,0.214066,0.230503,10.505171,6
+aves_aa_4R_auth_0686,"wolle, claus",,personne,,5,5,7,0.230302,0.254084,2172.390567,10
+aves_aa_4R_auth_0687,"lot, peter",,personne,,2,2,7,0.214066,0.230503,10.505171,6
+aves_aa_4R_auth_0688,"ehenheim, von, veltin",,personne,,2,2,7,0.214801,0.231116,9.10611,6
+aves_aa_4R_auth_0689,"ziegler, claus",,personne,,2,2,7,0.214801,0.231116,9.10611,6
+aves_aa_4R_auth_0690,"hennenberg, diebolt",,personne,,2,2,7,0.214801,0.231116,9.10611,6
+aves_aa_4R_auth_0691,"schiesel, peter",,personne,,2,2,7,0.214801,0.231116,9.10611,6
+aves_aa_4R_auth_0692,"herbst, johanns",,personne,,5,5,7,0.233048,0.256123,1999.417808,6
+aves_aa_4R_auth_0693,"dalheim, von, johanns",,personne,,2,2,7,0.214801,0.231116,9.10611,6
+aves_aa_4R_auth_0694,"klige, konrat",,personne,,2,2,7,0.214801,0.231116,9.10611,6
+aves_aa_4R_auth_0695,"duntzenheim, konrat",,personne,,4,4,7,0.226795,0.248182,1267.383502,10
+aves_aa_4R_auth_0696,"schlecht, johanns",,personne,,4,4,7,0.230302,0.25078,386.527955,10
+aves_aa_4R_auth_0697,"brant, johanns, spirer",,personne,,2,2,7,0.215022,0.231369,16.064015,12
+aves_aa_4R_auth_0698,"scholle, bernhart",,personne,,6,6,7,0.233744,0.258494,2770.017594,10
+aves_aa_4R_auth_0699,"bintz, claus",,personne,1.0,4,4,7,0.215764,0.23394,1272.943503,11
+aves_aa_4R_auth_0700,"schertzheim, johanns",,personne,,2,2,7,0.215022,0.231369,16.064015,12
+aves_aa_4R_auth_0701,"illkirch, von, laurentz",,personne,,2,2,7,0.215022,0.231369,16.064015,12
+aves_aa_4R_auth_0702,"ingolt, claus",,personne,,3,3,7,0.224194,0.24316,162.905122,12
+aves_aa_4R_auth_0703,"schnell, peter",,personne,,2,2,8,0.205621,0.222648,10.593547,12
+aves_aa_4R_auth_0704,"leitgast, johanns",,personne,,3,3,8,0.210535,0.230521,1085.379867,12
+aves_aa_4R_auth_0705,"frankenheim, ludwig",,personne,,2,2,8,0.205621,0.222648,10.593547,12
+aves_aa_4R_auth_0706,"scherer, bernhart",,personne,,4,4,7,0.219474,0.241051,332.307272,12
+aves_aa_4R_auth_0707,"volmar, thoman",,personne,,2,2,7,0.213627,0.229965,14.476996,13
+aves_aa_4R_auth_0708,"leitgast, claus",,personne,,1,1,8,0.202296,0.216439,0,12
+aves_aa_4R_auth_0709,"volk, andres",,personne,,6,6,7,0.225487,0.250188,1196.202839,10
+aves_aa_4R_auth_0710,"arge, heinrich",,personne,,9,9,7,0.235593,0.265568,2519.476474,12
+aves_aa_4R_auth_0711,"gries, peter",,personne,,4,4,7,0.227207,0.248342,709.54963,10
+aves_aa_4R_auth_0712,"dalheim, von, johanns",,personne,1.0,3,3,7,0.227455,0.244239,799.209541,13
+aves_aa_4R_auth_0713,"armbruster, johanns, pfennigturm, vor dem",,personne,,3,3,7,0.223873,0.24268,86.833811,13
+aves_aa_4R_auth_0714,"kannengiesser, ludwig",,personne,,2,2,7,0.216886,0.233002,11.362957,13
+aves_aa_4R_auth_0715,"bisinger, heinrich",,personne,1.0,5,5,6,0.23357,0.255529,1866.467874,4
+aves_aa_4R_auth_0716,"bitsch, konrat",,personne,,2,2,7,0.216886,0.233002,11.362957,13
+aves_aa_4R_auth_0717,"schoffmeiger, claus",,personne,,2,2,7,0.216886,0.233002,11.362957,13
+aves_aa_4R_auth_0718,"spitznagel, lienhart",,personne,,1,1,7,0.210677,0.224609,0,13
+aves_aa_4R_auth_0719,"ammelung, jacob",,personne,,16,16,7,0.237652,0.279944,26890.307285,10
+aves_aa_4R_auth_0720,"messner, adam",,personne,,8,8,7,0.230302,0.258228,4802.574299,10
+aves_aa_4R_auth_0721,"bösch, claus",,personne,,4,4,7,0.219166,0.239917,171.059532,10
+aves_aa_4R_auth_0722,"weipolt, adam",,personne,,2,2,7,0.216212,0.232096,10.97153,13
+aves_aa_4R_auth_0723,"gisebrecht, jacob",,personne,,2,2,7,0.216212,0.232096,10.97153,13
+aves_aa_4R_auth_0724,"habermüller, claus",,personne,,2,2,7,0.216212,0.232096,10.97153,13
+aves_aa_4R_auth_0725,"seelig, andres",,personne,,8,8,8,0.219551,0.247905,1923.51749,10
+aves_aa_4R_auth_0726,"kniebes, claus",,personne,,2,2,8,0.208709,0.225217,6.99409,10
+aves_aa_4R_auth_0727,"weidlich, claus",,personne,,10,10,7,0.230048,0.261772,8363.0812,10
+aves_aa_4R_auth_0728,"wirich, claus",,personne,,2,2,8,0.208709,0.225217,6.99409,10
+aves_aa_4R_auth_0729,"molsheim, von, konrat",,personne,,2,2,8,0.208709,0.225217,6.99409,10
+aves_aa_4R_auth_0730,"medinger, heinrich",,personne,,6,6,7,0.224435,0.249315,794.533595,10
+aves_aa_4R_auth_0731,"odratzheim, von, johanns",,personne,,8,8,8,0.221494,0.250509,2113.851458,10
+aves_aa_4R_auth_0732,"rohr, von, walther",,personne,,4,4,7,0.222202,0.24296,720.026213,10
+aves_aa_4R_auth_0733,"brümath, von, marx",,personne,,2,2,7,0.217641,0.233594,18.893517,10
+aves_aa_4R_auth_0734,"meiger, johanns",,personne,,8,8,7,0.228285,0.255084,1725.627525,10
+aves_aa_4R_auth_0735,"hüss, johanns",,personne,,4,4,7,0.220713,0.241308,272.955431,10
+aves_aa_4R_auth_0736,"schott, peter",,personne,,12,12,7,0.230642,0.264956,6223.610662,10
+aves_aa_4R_auth_0737,"baltener, diebolt",,personne,,4,4,7,0.220869,0.241708,371.81467,10
+aves_aa_4R_auth_0738,"olwisheim, von, peter",,personne,,2,2,8,0.206436,0.223639,72.723347,10
+aves_aa_4R_auth_0739,"rastetten, von, marx",,personne,,2,2,7,0.217641,0.233594,18.893517,10
+aves_aa_4R_auth_0740,"rotschilt, wilhelm",,personne,1.0,4,4,6,0.229963,0.247415,1139.189913,6
+aves_aa_4R_auth_0741,"allewelt, bernhart",,personne,,1,1,7,0.211747,0.225401,0,10
+aves_aa_4R_auth_0742,"lamprecht, jacob",,personne,,1,1,7,0.211747,0.225401,0,10
+aves_aa_4R_auth_0743,"morsmünster, von, ulrich",,personne,,2,2,7,0.218248,0.2347,23.686985,10
+aves_aa_4R_auth_0744,"olwisheim, von, peter",,personne,,2,2,7,0.214139,0.23093,35.598023,10
+aves_aa_4R_auth_0745,"rörich, claus",,personne,,2,2,7,0.218248,0.2347,23.686985,10
+aves_aa_4R_auth_0746,"riber, claus",,personne,,2,2,7,0.218248,0.2347,23.686985,10
+aves_aa_4R_auth_0747,"ganther, johanns",,personne,,5,5,7,0.215541,0.238973,7918.225165,10
+aves_aa_4R_auth_0748,"issenhausen, von, claus",,personne,,1,1,7,0.209478,0.223313,0,10
+aves_aa_4R_auth_0749,"brant, johanns, spirer",,personne,,4,4,7,0.220947,0.241548,339.216272,10
+aves_aa_4R_auth_0750,"stange, gilge",,personne,0.0,3,3,7,0.225568,0.24229,1189.052233,14
+aves_aa_4R_auth_0751,"gosse, johanns",,personne,,2,2,7,0.217414,0.233394,26.362329,10
+aves_aa_4R_auth_0752,"hage, jacob",,personne,,2,2,7,0.217414,0.233394,26.362329,10
+aves_aa_4R_auth_0753,"ruhlmann, kühne",,personne,,2,2,7,0.217414,0.233394,26.362329,10
+aves_aa_4R_auth_0754,"berse, von, johanns",,personne,,7,7,8,0.217414,0.245281,664.489344,10
+aves_aa_4R_auth_0755,"kerling, marx",,personne,,13,13,7,0.228618,0.265296,10039.036772,10
+aves_aa_4R_auth_0756,"bir, claus",,personne,,3,3,8,0.207256,0.226583,72.087483,10
+aves_aa_4R_auth_0757,"hage, frantz",,personne,,4,4,8,0.208431,0.229688,184.819477,10
+aves_aa_4R_auth_0758,"bitsch, von, konrat",,personne,,2,2,8,0.204746,0.221228,14.42393,10
+aves_aa_4R_auth_0759,"ersam, andres",,personne,,4,4,8,0.211389,0.233251,294.831768,10
+aves_aa_4R_auth_0760,"brachenheim, von, peter",,personne,,2,2,8,0.204746,0.221228,14.42393,10
+aves_aa_4R_auth_0761,"bisinger, johanns",,personne,,2,2,8,0.204746,0.221228,14.42393,10
+aves_aa_4R_auth_0762,"hegel, heinrich",,personne,,4,4,8,0.207463,0.228102,129.662579,10
+aves_aa_4R_auth_0763,"sarburg, von, peter",,personne,,2,2,8,0.190179,0.208645,4.207518,10
+aves_aa_4R_auth_0764,"bisinger, heinrich",,personne,,3,3,8,0.19146,0.212655,30.388774,10
+aves_aa_4R_auth_0765,"bietenheim, sifrit",,personne,,6,6,8,0.197443,0.223417,248.632832,10
+aves_aa_4R_auth_0766,"lehmann, martin",,personne,,2,2,8,0.190179,0.208645,4.207518,10
+aves_aa_4R_auth_0767,"spiess, hilarius",,personne,,2,2,8,0.190179,0.208645,4.207518,10
+aves_aa_4R_auth_0768,"ottemann, diebolt",,personne,,10,10,8,0.212034,0.246323,2490.417463,10
+aves_aa_4R_auth_0769,"offenburg, bechtolt",,personne,,11,11,8,0.212972,0.249254,5482.789197,10
+aves_aa_4R_auth_0770,"sanselmann, anthenie",,personne,,4,4,8,0.202624,0.224438,112.092093,10
+aves_aa_4R_auth_0771,"säckingen, von, johanns",,personne,,4,4,8,0.20197,0.223598,87.309906,10
+aves_aa_4R_auth_0772,"schedeler, johanns",,personne,,6,6,8,0.206572,0.233076,371.06109,10
+aves_aa_4R_auth_0773,"trachenfeils, mattern",,personne,,10,10,8,0.21189,0.245923,2331.064782,10
+aves_aa_4R_auth_0774,"gemersheim, von, laurentz",,personne,,5,5,8,0.204145,0.228381,214.073125,10
+aves_aa_4R_auth_0775,"villinger, erhart",,personne,1.0,4,4,7,0.225487,0.244861,2410.724538,14
+aves_aa_4R_auth_0776,"duntzenheim, von, symont",,personne,,2,2,7,0.209337,0.225817,25.78994,10
+aves_aa_4R_auth_0777,"hug, burkhart",,personne,,2,2,8,0.198887,0.216417,37.472114,10
+aves_aa_4R_auth_0778,"weldel, johanns",,personne,,1,1,8,0.196082,0.210489,0,10
+aves_aa_4R_auth_0779,"meiger, johanns",,personne,,1,1,8,0.196082,0.210489,0,10
+aves_aa_4R_auth_0780,"berlin, johanns",,personne,,6,6,7,0.214433,0.23946,1894.443089,10
+aves_aa_4R_auth_0781,"renner, claus",,personne,,3,3,7,0.21089,0.229788,417.03902,10
+aves_aa_4R_auth_0782,"zabern, von, ulrich",,personne,,2,2,7,0.207807,0.223566,10.252616,10
+aves_aa_4R_auth_0783,"ammeister, lienhart",,personne,,6,6,7,0.213992,0.238487,637.890467,10
+aves_aa_4R_auth_0784,"wolffach, konrat",,personne,,2,2,7,0.207807,0.223566,10.252616,10
+aves_aa_4R_auth_0785,"hüss, jerge",,personne,,1,1,7,0.205757,0.219249,0,10
+aves_aa_4R_auth_0786,"sivester, johanns",,personne,,2,2,7,0.207807,0.223566,10.252616,10
+aves_aa_4R_auth_0787,"müge, jacob",,personne,,5,5,7,0.209057,0.232479,3184.62649,10
+aves_aa_4R_auth_0788,"westhoffen, claus",,personne,,2,2,7,0.203349,0.219464,55.748274,10
+aves_aa_4R_auth_0789,"grewalt, michel",,personne,,1,1,7,0.200032,0.213157,0,10
+aves_aa_4R_auth_0790,"raubel, martin",,personne,,2,2,7,0.203349,0.219464,55.748274,10
+aves_aa_4R_auth_0791,"pfeffinger, bernhart",,personne,,2,2,8,0.189545,0.206726,9.094062,10
+aves_aa_4R_auth_0792,"slapp, johanns",,personne,,3,3,8,0.194921,0.215479,77.075426,10
+aves_aa_4R_auth_0793,"kochersberg, erhart",,personne,,1,1,8,0.181937,0.19606,0,10
+aves_aa_4R_auth_0794,"reck, diebolt",,personne,,1,1,8,0.181937,0.19606,0,10
+aves_aa_4R_auth_0795,"burkhart, johanns",,personne,,6,6,8,0.199077,0.226112,533.87476,10
+aves_aa_4R_auth_0796,"rebestock, fritsch",,personne,,2,2,8,0.189545,0.206726,9.094062,10
+aves_aa_4R_auth_0797,"scholle, johanns",,personne,,2,2,8,0.189545,0.206726,9.094062,10
+aves_aa_4R_auth_0798,"andlau, von, peter",,personne,,2,2,8,0.189718,0.206966,5.113207,10
+aves_aa_4R_auth_0799,"duntzenheim, claus",,personne,,2,2,8,0.189718,0.206966,5.113207,10
+aves_aa_4R_auth_0800,"hungerstein, konrat",,personne,,3,3,8,0.191577,0.211682,148.113346,10
+aves_aa_4R_auth_0801,"vogelsberg, bechtolt",,personne,,5,5,8,0.194375,0.219329,291.350821,10
+aves_aa_4R_auth_0802,"peter, mathis, sankt-arbogast, von",,personne,,2,2,8,0.189718,0.206966,5.113207,10
+aves_aa_4R_auth_0803,"meiger, johanns",,personne,,2,2,8,0.189775,0.206766,7.045574,10
+aves_aa_4R_auth_0804,"ersam, claus",,personne,,4,4,8,0.194255,0.215982,180.836656,10
+aves_aa_4R_auth_0805,"molsheim, von, peter",,personne,,2,2,8,0.189775,0.206766,7.045574,10
+aves_aa_4R_auth_0806,"riffe, johanns, der junge",,personne,,2,2,8,0.191754,0.209242,10.713432,10
+aves_aa_4R_auth_0807,"brun, claus",,personne,,4,4,8,0.193593,0.215117,165.707303,10
+aves_aa_4R_auth_0808,"schott, heinrich",,personne,,7,7,8,0.195897,0.223711,1577.153516,10
+aves_aa_4R_auth_0809,"büre, von, oberlin",,personne,,4,4,8,0.194074,0.216716,257.038155,10
+aves_aa_4R_auth_0810,"mennichin, johanns",,personne,,2,2,8,0.191754,0.209242,10.713432,10
+aves_aa_4R_auth_0811,"ducheler, johanns",,personne,,5,5,8,0.194496,0.218448,432.20694,10
+aves_aa_4R_auth_0812,"ruhlmann, johanns",,personne,,2,2,8,0.191754,0.209242,10.713432,10
+aves_aa_4R_auth_0813,"armbruster, konrat",,personne,,3,3,8,0.194074,0.214782,75.736893,10
+aves_aa_4R_auth_0814,"seebott, ulrich",,personne,,3,3,8,0.192877,0.212386,83.874556,10
+aves_aa_4R_auth_0815,"trüchtersheim, von, johanns",,personne,,7,7,8,0.195347,0.222005,3085.571246,10
+aves_aa_4R_auth_0816,"wachenheimer, peter",,personne,,2,2,8,0.19676,0.215018,23.927716,10
+aves_aa_4R_auth_0817,"ulrich, wilhelm",,personne,,1,1,8,0.190701,0.205498,0,10
+aves_aa_4R_auth_0818,"seelig, khurin",,personne,,2,2,8,0.19676,0.215018,23.927716,10
+aves_aa_4R_auth_0819,"scholle, konrat",,personne,,2,2,8,0.19676,0.215018,23.927716,10
+aves_aa_4R_auth_0820,"rottweil, von, johanns-erhart",,personne,,6,6,8,0.195286,0.220663,503.882107,10
+aves_aa_4R_auth_0821,"hohenburg, von, götze",,personne,,2,2,8,0.191577,0.20886,9.590569,10
+aves_aa_4R_auth_0822,"frankfurt, von, johanns",,personne,,2,2,8,0.191577,0.20886,9.590569,10
+aves_aa_4R_auth_0823,"müller, heinrich",,personne,,2,2,8,0.191577,0.20886,9.590569,10
+aves_aa_4R_auth_0824,"wehel, johanns",,personne,,1,1,8,0.189718,0.20433,0,10
+aves_aa_4R_auth_0825,"gisebrecht, erhart",,personne,,3,3,8,0.192225,0.211391,113.941137,10
+aves_aa_4R_auth_0826,"bülle, johanns",,personne,,4,4,8,0.193115,0.214495,159.5077,10
+aves_aa_4R_auth_0827,"rohrbosch, johanns",,personne,,3,3,8,0.192225,0.211391,113.941137,10
+aves_aa_4R_auth_0828,"wile, von, konrat",,personne,,2,2,8,0.191577,0.20886,9.590569,10
+aves_aa_4R_auth_0829,"morsmünster, von, peter",,personne,,2,2,8,0.191577,0.20886,9.590569,10
+aves_aa_4R_auth_0830,"waldener, johanns",,personne,,10,10,8,0.199776,0.232321,4233.069471,10
+aves_aa_4R_auth_0831,"dahlheim, anthenie",,personne,,2,2,8,0.190353,0.208217,12.204678,10
+aves_aa_4R_auth_0832,"beger, johanns",,personne,,2,2,8,0.190353,0.208217,12.204678,10
+aves_aa_4R_auth_0833,"schwencker, heinrich",,personne,,2,2,8,0.190353,0.208217,12.204678,10
+aves_aa_4R_auth_0834,"morsmünster, von, gangolff",,personne,,4,4,8,0.196205,0.218932,240.269052,10
+aves_aa_4R_auth_0835,"happmacher, andres",,personne,,4,4,8,0.185553,0.20819,109.523114,10
+aves_aa_4R_auth_0836,"burggraf, wirich",,personne,,2,2,9,0.176148,0.195617,5.064939,10
+aves_aa_4R_auth_0837,"rebestock, marx",,personne,,5,5,9,0.178307,0.205209,446.616452,10
+aves_aa_4R_auth_0838,"mornhinweg, johanns",,personne,,2,2,9,0.176148,0.195617,5.064939,10
+aves_aa_4R_auth_0839,"hohenburg, von, götze",,personne,,5,5,8,0.188631,0.212787,272.419921,10
+aves_aa_4R_auth_0840,"trüchtersheim, von, ruhlemann",,personne,,4,4,8,0.187781,0.209456,95.501476,10
+aves_aa_4R_auth_0841,"meiger, jacob",,personne,,1,1,9,0.174137,0.190448,0,10
+aves_aa_4R_auth_0842,"flöss, johanns",,personne,,2,2,9,0.174818,0.193392,8.414862,10
+aves_aa_4R_auth_0843,"trense, andres",,personne,,6,6,8,0.193773,0.219019,1274.02059,10
+aves_aa_4R_auth_0844,"duntzenheim, von, konrat",,personne,,2,2,9,0.168871,0.187649,5.18387,10
+aves_aa_4R_auth_0845,"armbruster, obrecht",,personne,,7,7,9,0.171699,0.201505,433.168611,10
+aves_aa_4R_auth_0846,"pfarrer, heinrich",,personne,,2,2,9,0.168871,0.187649,5.18387,10
+aves_aa_4R_auth_0847,"vendenheim, laurentz",,personne,,4,4,8,0.182788,0.204092,150.07603,10
+aves_aa_4R_auth_0848,"esslinger, matheus",,personne,,4,4,9,0.170065,0.193511,82.339923,10
+aves_aa_4R_auth_0849,"ulrich, claus",,personne,,6,6,8,0.192225,0.216316,515.537312,10
+aves_aa_4R_auth_0850,"jerger, johanns",,personne,,2,2,8,0.181094,0.197707,14.803685,10
+aves_aa_4R_auth_0851,"wisebach, jacob",,personne,,7,7,8,0.184404,0.211669,1328.610203,10
+aves_aa_4R_auth_0852,"armbruster, konrat",,personne,,2,2,9,0.166978,0.186368,11.33072,10
+aves_aa_4R_auth_0853,"trachenfeils, lienhart",,personne,,7,7,8,0.193354,0.219872,1300.500347,10
+aves_aa_4R_auth_0854,"storck, konrat",,personne,,4,4,8,0.182574,0.203875,185.425675,10
+aves_aa_4R_auth_0855,"württemberg, johanns",,personne,,2,2,8,0.181094,0.197707,14.803685,10
+aves_aa_4R_auth_0856,"fallwehenne, konrat",,personne,,2,2,8,0.181094,0.197707,14.803685,10
+aves_aa_4R_auth_0857,"meiger, johanns",,personne,,2,2,8,0.181147,0.197813,6.071727,10
+aves_aa_4R_auth_0858,"renner, peter",,personne,,2,2,8,0.181147,0.197813,6.071727,10
+aves_aa_4R_auth_0859,"pfutzer, claus",,personne,,2,2,8,0.181147,0.197813,6.071727,10
+aves_aa_4R_auth_0860,"hug, peter",,personne,,2,2,8,0.181147,0.197813,6.071727,10
+aves_aa_4R_auth_0861,"dolde, blesin",,personne,,4,4,8,0.181357,0.202562,151.099858,10
+aves_aa_4R_auth_0862,"bechtolt, claus",,personne,,2,2,8,0.179793,0.196127,9.05608,10
+aves_aa_4R_auth_0863,"vetter, claus",,personne,,2,2,8,0.179793,0.196127,9.05608,10
+aves_aa_4R_auth_0864,"rörich, johanns",,personne,,2,2,8,0.179793,0.196127,9.05608,10
+aves_aa_4R_auth_0865,"dachstein, von, johanns",,personne,,2,2,8,0.179793,0.196127,9.05608,10
+aves_aa_4R_auth_0866,"lötschel, claus",,personne,,4,4,8,0.181357,0.202562,151.099858,10
+aves_aa_4R_auth_0867,"jerger, claus",,personne,,6,6,8,0.182628,0.208024,388.435287,10
+aves_aa_4R_auth_0868,"rotschilt, stefan",,personne,,5,5,9,0.168826,0.195374,171.910426,10
+aves_aa_4R_auth_0869,"burnherr, arbogast",,personne,,2,2,9,0.166844,0.185582,5.044988,10
+aves_aa_4R_auth_0870,"volk, diebolt",,personne,,2,2,9,0.166844,0.185582,5.044988,10
+aves_aa_4R_auth_0871,"müge, florentz",,personne,,2,2,8,0.184079,0.20072,21.295883,10
+aves_aa_4R_auth_0872,"frank, johanns",,personne,,4,4,9,0.168145,0.192044,101.888699,10
+aves_aa_4R_auth_0873,"friedrich, blesin",,personne,,1,1,9,0.166047,0.182238,0,10
+aves_aa_4R_auth_0874,"happmacher, andres",,personne,,4,4,8,0.185553,0.207009,650.905111,10
+aves_aa_4R_auth_0875,"brümath, von, johanns",,personne,,2,2,8,0.183916,0.200347,3.734183,10
+aves_aa_4R_auth_0876,"rummeler, florentz",,personne,,5,5,8,0.185884,0.208541,601.282864,10
+aves_aa_4R_auth_0877,"pfutzer, mattern",,personne,,4,4,8,0.185278,0.206009,302.986905,10
+aves_aa_4R_auth_0878,"missbach, johanns",,personne,,4,4,8,0.185333,0.206209,1175.896297,10
+aves_aa_4R_auth_0879,"dietrich, michel",,personne,,4,4,8,0.190643,0.211147,293.085026,10
+aves_aa_4R_auth_0880,"krebs, peter",,personne,,2,2,8,0.183916,0.200347,3.734183,10
+aves_aa_4R_auth_0881,"minner, veltin",,personne,,3,3,8,0.184459,0.203665,461.436655,10
+aves_aa_4R_auth_0882,"gerbot, jacob",,personne,,4,4,8,0.185443,0.206796,560.926405,10
+aves_aa_4R_auth_0883,"trachenfeils, andres",,personne,,4,4,8,0.185443,0.206116,186.570949,10
+aves_aa_4R_auth_0884,"hannemann, johanns",,personne,,1,1,8,0.182948,0.197017,0,10
+aves_aa_4R_auth_0885,"heinrich, johanns",,personne,,2,2,8,0.183808,0.200134,31.323586,10
+aves_aa_4R_auth_0886,"bilger, johanns",,personne,,4,4,8,0.185278,0.206103,595.307193,10
+aves_aa_4R_auth_0887,"ingolt, heinrich",,personne,,2,2,9,0.166534,0.185036,8.302983,10
+aves_aa_4R_auth_0888,"hohenburg, von, jerge",,personne,,2,2,9,0.166534,0.185036,8.302983,10
+aves_aa_4R_auth_0889,"krug, claus",,personne,,3,3,9,0.167246,0.188567,44.481396,10
+aves_aa_4R_auth_0890,"meiger, lexius",,personne,,3,3,9,0.166047,0.187463,91.613206,10
+aves_aa_4R_auth_0891,"ebel, jerge",,personne,,2,2,9,0.166534,0.185036,8.302983,10
+aves_aa_4R_auth_0892,"wangen, von, konrat",,personne,,2,2,9,0.166534,0.185036,8.302983,10
+aves_aa_4R_auth_0893,"müseler, peter",,personne,,4,4,8,0.180415,0.201163,262.83851,10
+aves_aa_4R_auth_0894,"wurm, jacob",,personne,,3,3,9,0.163188,0.183691,74.949535,10
+aves_aa_4R_auth_0895,"wolff, lienhart",,personne,,2,2,9,0.166047,0.184183,7.600023,10
+aves_aa_4R_auth_0896,"frank, johanns",,personne,,4,4,8,0.180415,0.201163,262.83851,10
+aves_aa_4R_auth_0897,"freiburg, von, jost",,personne,,4,4,8,0.180415,0.201163,262.83851,10
+aves_aa_4R_auth_0898,"martin, wein-und-brot",,personne,,2,2,9,0.166047,0.184183,7.600023,10
+aves_aa_4R_auth_0899,"grimmel, kühne",,personne,,2,2,9,0.166047,0.184183,7.600023,10
+aves_aa_4R_auth_0900,"heil, peter",,personne,,2,2,9,0.166047,0.184183,7.600023,10
+aves_aa_4R_auth_0901,"rottweil, von, johanns-wilhelm",,personne,,2,2,9,0.16517,0.183493,9.563635,10
+aves_aa_4R_auth_0902,"hochstett, von, johanns",,personne,,1,1,9,0.164001,0.179562,0,10
+aves_aa_4R_auth_0903,"löwe, konrat",,personne,,3,3,9,0.165871,0.186663,34.647753,10
+aves_aa_4R_auth_0904,"russer, johanns",,personne,,3,3,9,0.165871,0.186663,34.647753,10
+aves_aa_4R_auth_0905,"strubel, symont",,personne,,2,2,9,0.16517,0.183493,9.563635,10
+aves_aa_4R_auth_0906,"konrat, johanns",,personne,,4,4,9,0.165389,0.187985,121.574853,10
+aves_aa_4R_auth_0907,"stösser, johanns",,personne,,2,2,9,0.163915,0.181777,6.209347,10
+aves_aa_4R_auth_0908,"merckel, jost",,personne,,2,2,9,0.163915,0.181777,6.209347,10
+aves_aa_4R_auth_0909,"wolff, claus",,personne,,2,2,9,0.163915,0.181777,6.209347,10
+aves_aa_4R_auth_0910,"ingolt, johanns",,personne,,2,2,8,0.17851,0.194528,31.33353,10
+aves_aa_4R_auth_0911,"wernlin, claus",,personne,,2,2,8,0.17851,0.194528,31.33353,10
+aves_aa_4R_auth_0912,"wingersheim, diebolt",,personne,,3,3,8,0.179793,0.198831,145.132378,10
+aves_aa_4R_auth_0913,"slapp, bernhart",,personne,,2,2,8,0.17851,0.194528,31.33353,10
+aves_aa_4R_auth_0914,"betscholt, diebolt",,personne,,2,2,8,0.174477,0.188447,84.420172,10
+aves_aa_4R_auth_0915,"seebott, lamprecht",,personne,,1,1,8,0.173895,0.185716,0,10
+aves_aa_4R_auth_0916,"hungerstein, johanns",,personne,,2,2,8,0.174477,0.188447,84.420172,10
+aves_aa_4R_auth_0917,"hüseler, rudolff",,personne,,2,2,8,0.174477,0.188447,84.420172,10
+aves_aa_4R_auth_0918,"kupfer, johanns",,personne,,2,2,8,0.174477,0.188447,84.420172,10
+aves_aa_4R_auth_0919,"riffe, jeronimus",,personne,,2,2,9,0.158154,0.174709,12.992405,10
+aves_aa_4R_auth_0920,"küller, jacob",,personne,,2,2,9,0.158154,0.174709,12.992405,10
+aves_aa_4R_auth_0921,"molsheim, von, jacob",,personne,,2,2,9,0.158154,0.174709,12.992405,10
+aves_aa_4R_auth_0922,"büre, von, oberlin",,personne,,2,2,9,0.158154,0.174709,12.992405,10
+aves_aa_4R_auth_0923,"kornman, thoman",,personne,,2,2,9,0.158154,0.174709,12.992405,10
+aves_aa_4R_auth_0924,"lume, konrat",,personne,,2,2,9,0.158154,0.174709,12.992405,10
+aves_aa_4R_auth_0925,"schwende, johanns, der junge",,personne,,2,2,9,0.158154,0.174709,12.992405,10
+aves_aa_4R_auth_0926,"schwende, johanns, der junge",,personne,,1,1,9,0.154406,0.16747,0,10
+aves_aa_4R_auth_0927,"rüttel, jerge",,personne,,2,2,9,0.155985,0.173075,11.44263,10
+aves_aa_4R_auth_0928,"arge, peter",,personne,,2,2,9,0.155985,0.173075,11.44263,10
+aves_aa_4R_auth_0929,"riffe, jerge",,personne,,2,2,9,0.155985,0.173075,11.44263,10
+aves_aa_4R_auth_0930,"schultheiss, martin, wein-und-brot",,personne,,1,1,10,0.146213,0.16076,0,10
+aves_aa_4R_auth_0931,"arbogast, johanns-claus",,personne,,1,1,9,0.155442,0.17017,0,10
+aves_aa_4R_auth_0932,"barpfennig, bartholomeus",,personne,,1,1,8,0.185663,0.196802,0,9
+aves_aa_4R_auth_0933,"renner, johanns, der junge",,personne,1.0,3,3,6,0.244718,0.261258,214.02913,7
+aves_aa_4R_auth_0934,"koch, johanns, der junge",,personne,0.0,3,3,6,0.238286,0.25457,385.149813,14
+aves_aa_4R_auth_0935,"wissemburg, johanns",,personne,0.0,2,2,8,0.206231,0.220379,0.888889,4
+aves_aa_4R_auth_0936,"merckel, küntz",,personne,0.0,2,2,8,0.206231,0.220379,0.888889,4
+aves_aa_4R_auth_0937,"jude, heintz",,personne,0.0,2,2,8,0.206231,0.220379,0.888889,4
+aves_aa_4R_auth_0938,"zinsmeister, der",,personne,0.0,2,2,8,0.206231,0.220379,0.888889,4
+aves_aa_4R_auth_0939,"rebe, lauwel",,personne,0.0,2,2,8,0.206231,0.220379,155.375,4
+aves_aa_4R_auth_0940,"schaffner, johanns",,personne,0.0,2,2,8,0.206231,0.220379,155.375,4
+aves_aa_4R_auth_0941,"schultheiss, pantheleon",,personne,0.0,2,2,8,0.206231,0.220379,155.375,4
+aves_aa_4R_auth_0942,"erbe, lauwel",,personne,0.0,2,2,8,0.206231,0.220379,155.375,4
+aves_aa_4R_auth_0943,"rebe, johanns",,personne,0.0,2,2,8,0.206231,0.220379,155.375,4
+aves_aa_4R_auth_0944,"kühne,",,personne,0.0,2,2,8,0.206231,0.220379,155.375,4
+aves_aa_4R_auth_0945,"kühne, johanns",,personne,0.0,2,2,8,0.206231,0.220379,155.375,4
+aves_aa_4R_auth_0946,"lise, heinrich",,personne,0.0,2,2,8,0.206231,0.220379,155.375,4
+aves_aa_4R_auth_0947,"weiss, peter",,personne,0.0,2,2,8,0.206231,0.220379,416,4
+aves_aa_4R_auth_0948,"dietrich, diebolt",,personne,0.0,2,2,8,0.206231,0.220379,416,4
+aves_aa_4R_auth_0949,"jäger, johanns",,personne,0.0,2,2,8,0.206231,0.220379,416,4
+aves_aa_4R_auth_0950,"hirse, heintz",,personne,0.0,2,2,8,0.206231,0.220379,1250,4
+aves_aa_4R_auth_0951,"scholle, bernhart",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0952,"säckingen, von, friedel",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0953,"wurant, claus",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0954,"mentzer, johanns",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0955,"köln, von, peter",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0956,"ofentürer, peter",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0957,"dundenheim, johanns",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0958,"dundenheim, peter",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0959,"marlenheim, von, diebolt",,personne,0.0,2,2,8,0.20315,0.216647,0.04,14
+aves_aa_4R_auth_0960,"volmar, jacob",,personne,0.0,2,2,8,0.200738,0.212524,0.076923,6
+aves_aa_4R_auth_0961,"müseler, heinrich",,personne,0.0,2,2,8,0.200738,0.212524,0.076923,6
+aves_aa_4R_auth_0962,"lugerlin, claus",,personne,0.0,2,2,8,0.200738,0.212524,0.076923,6
+aves_aa_4R_auth_0963,"ackerfuss, claus",,personne,0.0,2,2,8,0.184895,0.195682,0.090909,5
+aves_aa_4R_auth_0964,"dossenheim, claus",,personne,0.0,2,2,8,0.184895,0.195682,0.090909,5
+aves_aa_4R_auth_0965,"stocker, heinrich",,personne,0.0,2,2,8,0.184895,0.195682,0.090909,5
+aves_aa_4R_auth_0966,"molsheim, von, adam",,personne,0.0,2,2,8,0.184895,0.195682,0.090909,5
+aves_aa_4R_auth_0967,"schaeffoltzheim, von, wilhelm",,personne,0.0,2,2,8,0.184895,0.195682,0.090909,5
+aves_aa_4R_auth_0968,"hürtigheim, von, fritsch",,personne,0.0,2,2,8,0.184895,0.195682,0.090909,5
+aves_aa_4R_auth_0969,"düringer, kühne, der alte",,personne,0.0,1,1,8,0.185663,0.196802,0,9
+aves_aa_4R_auth_0970,"düringer, kühne, der junge",,personne,0.0,1,1,8,0.185663,0.196802,0,9
+aves_aa_4R_auth_0971,"wantzen, von, jacob",,personne,0.0,1,1,8,0.185663,0.196802,0,9
+aves_aa_4R_auth_0972,"odratzheim, johanns",,personne,0.0,1,1,8,0.185663,0.196802,0,9
+aves_aa_4R_auth_0973,"steinbach, johanns",,personne,0.0,1,1,8,0.185663,0.196802,0,9
+aves_aa_4R_auth_0974,"weber, claus",,personne,0.0,1,1,8,0.185663,0.196802,0,9
+aves_aa_4R_auth_0975,"rohr, von, claus",,personne,0.0,1,1,8,0.185663,0.196802,0,9
+aves_aa_4R_auth_0976,"gunther, johanns",,personne,0.0,1,1,8,0.196389,0.207374,0,1
+aves_aa_4R_auth_0977,"metziger, peter",,personne,0.0,1,1,8,0.196389,0.207374,0,1
+aves_aa_4R_auth_0978,"willekin, florentz",,personne,0.0,1,1,8,0.199331,0.210646,0,8
+aves_aa_4R_auth_0979,"hell, veltin",,personne,0.0,1,1,8,0.199331,0.210646,0,8
+aves_aa_4R_auth_0980,"kreuznach, von, johanns",,personne,0.0,1,1,8,0.199331,0.210646,0,8
+aves_aa_4R_auth_0981,"lehmann, heinrich",,personne,0.0,1,1,8,0.199331,0.210646,0,8
+aves_aa_4R_auth_0982,"kannengiesser, claus",,personne,0.0,1,1,8,0.199331,0.210646,0,8
+aves_aa_4R_auth_0983,"mertz, krutenau, in",,personne,0.0,1,1,8,0.199331,0.210646,0,8
+aves_aa_4R_auth_0984,"anshelm, jerge",,personne,0.0,2,2,8,0.185884,0.197871,7.334488,2
+aves_aa_4R_auth_0985,"neuwiller, johanns",,personne,0.0,2,2,8,0.185884,0.197871,7.334488,2
+aves_aa_4R_auth_0986,"schlettstadt, von, johanns",,personne,0.0,2,2,8,0.185884,0.197871,7.334488,2
+aves_aa_4R_auth_0987,"arge, peter",,personne,0.0,2,2,8,0.185884,0.197871,7.334488,2
+aves_aa_4R_auth_0988,"klein, johanns",,personne,0.0,2,2,8,0.185884,0.197871,7.334488,2
+aves_aa_4R_auth_0989,"hirtz,",,personne,0.0,2,2,8,0.185884,0.197871,2.966517,2
+aves_aa_4R_auth_0990,"mentz, von, claus",,personne,0.0,2,2,8,0.185884,0.197871,2.966517,2
+aves_aa_4R_auth_0991,"molsheim, von, johanns",,personne,0.0,2,2,8,0.185884,0.197871,2.966517,2
+aves_aa_4R_auth_0992,"glaser, ulrich",,personne,0.0,2,2,8,0.185884,0.197871,2.966517,2
+aves_aa_4R_auth_0993,"glaser, herzog",,personne,0.0,2,2,8,0.185884,0.197871,2.966517,2
+aves_aa_4R_auth_0994,"happmacher, fritsch",,personne,0.0,1,1,8,0.200224,0.211713,0,8
+aves_aa_4R_auth_0995,"molsheim, von, adam",,personne,0.0,1,1,8,0.200224,0.211713,0,8
+aves_aa_4R_auth_0996,"küntz, tröschen, zum",,personne,0.0,1,1,8,0.200224,0.211713,0,8
+aves_aa_4R_auth_0997,"sporer, johanns",,personne,0.0,1,1,8,0.200224,0.211713,0,8
+aves_aa_4R_auth_0998,"waldener, jacob",,personne,0.0,1,1,8,0.200224,0.211713,0,8
+aves_aa_4R_auth_0999,gilge,,personne,0.0,1,1,8,0.200224,0.211713,0,8
+aves_aa_4R_auth_1000,"genf, von, johanns",,personne,0.0,1,1,8,0.188688,0.199677,0,9
+aves_aa_4R_auth_1001,"rosegart, heinrich",,personne,0.0,1,1,8,0.188688,0.199677,0,9
+aves_aa_4R_auth_1002,"ehenheim, von, symont",,personne,0.0,1,1,8,0.188688,0.199677,0,9
+aves_aa_4R_auth_1003,"hensel, andres",,personne,0.0,1,1,8,0.188688,0.199677,0,9
+aves_aa_4R_auth_1004,"ehenheim, von, veltin",,personne,0.0,1,1,8,0.188688,0.199677,0,9
+aves_aa_4R_auth_1005,"westermann, martin",,personne,0.0,1,1,8,0.188688,0.199677,0,9
+aves_aa_4R_auth_1006,"dolde, lauwel",,personne,0.0,1,1,8,0.188688,0.199677,0,9
+aves_aa_4R_auth_1007,"gingsheim, johanns, sankt-elisabeth gasse, auf",,personne,0.0,1,1,8,0.197693,0.209063,0,1
+aves_aa_4R_auth_1008,"seelig, peter",,personne,0.0,1,1,8,0.197693,0.209063,0,1
+aves_aa_4R_auth_1009,martzolff,,personne,0.0,1,1,8,0.197693,0.209063,0,1
+aves_aa_4R_auth_1010,"neffe, johanns",,personne,0.0,1,1,8,0.197693,0.209063,0,1
+aves_aa_4R_auth_1011,"sant, von, diebolt",,personne,0.0,1,1,8,0.193653,0.20341,0,0
+aves_aa_4R_auth_1012,"molsheim, von, peter",,personne,0.0,1,1,8,0.193653,0.20341,0,0
+aves_aa_4R_auth_1013,"bernhart, rad, zum",,personne,0.0,1,1,8,0.190992,0.201209,0,14
+aves_aa_4R_auth_1014,"uttenheim, von, johanns",,personne,0.0,1,1,8,0.190992,0.201209,0,14
+aves_aa_4R_auth_1015,"peter, krone, zur",,personne,0.0,1,1,8,0.190992,0.201209,0,14
+aves_aa_4R_auth_1016,"worms, von, alhelm",,personne,0.0,1,1,8,0.190992,0.201209,0,14
+aves_aa_4R_auth_1017,"kipkorn, johanns",,personne,0.0,1,1,8,0.190992,0.201209,0,14
+aves_aa_4R_auth_1018,"eckendorf, heinrich",,personne,0.0,1,1,8,0.192877,0.204807,0,11
+aves_aa_4R_auth_1019,"dürningen, von, heinrich",,personne,0.0,1,1,8,0.192877,0.204807,0,11
+aves_aa_4R_auth_1020,"schrotbanck, ortlieb",,personne,0.0,1,1,8,0.192877,0.204807,0,11
+aves_aa_4R_auth_1021,"lautern, von, johanns",,personne,0.0,1,1,8,0.192877,0.204807,0,11
+aves_aa_4R_auth_1022,"mentz, von, kraft",,personne,0.0,1,1,8,0.192877,0.204807,0,11
+aves_aa_4R_auth_1023,"sundgau, von, johanns",,personne,0.0,1,1,8,0.192877,0.204807,0,11
+aves_aa_4R_auth_1024,"lembel, claus",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1025,"ohmeter, götze",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1026,"erstenberg, heinrich",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1027,"glockengiesser, johanns",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1028,"weisseisen, johanns",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1029,"adam, peter",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1030,"allewelt, johanns",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1031,"ludwig, fischmarkt, am",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1032,"stückgarter, bechtolt",,personne,0.0,1,1,8,0.194557,0.207056,0,1
+aves_aa_4R_auth_1033,"heiligenstein, von, richart",,personne,0.0,2,2,8,0.1759,0.184567,5.104713,11
+aves_aa_4R_auth_1034,"stalle, johanns",,personne,0.0,2,2,8,0.1759,0.184567,5.104713,11
+aves_aa_4R_auth_1035,"loteisen, jost",,personne,0.0,2,2,8,0.1759,0.184567,5.104713,11
+aves_aa_4R_auth_1036,"schwartz, jeckel",,personne,0.0,2,2,8,0.1759,0.184567,7.058625,11
+aves_aa_4R_auth_1037,veltin,,personne,0.0,2,2,8,0.1759,0.184567,7.058625,11
+aves_aa_4R_auth_1038,rudolff,,personne,0.0,2,2,8,0.190527,0.203195,3.744726,2
+aves_aa_4R_auth_1039,richart,,personne,0.0,2,2,8,0.190527,0.203195,3.744726,2
+aves_aa_4R_auth_1040,"müsung, johanns",,personne,0.0,2,2,8,0.190527,0.203195,3.744726,2
+aves_aa_4R_auth_1041,"claus, metzige, bei der",,personne,0.0,2,2,8,0.190527,0.203195,3.744726,2
+aves_aa_4R_auth_1042,"heinrich, Sankt-martin, bei",,personne,0.0,2,2,8,0.190527,0.203195,3.744726,2
+aves_aa_4R_auth_1043,"flach, oswalt",,personne,0.0,2,2,8,0.190527,0.203195,9.844225,2
+aves_aa_4R_auth_1044,"üntzel, graben, auf dem",,personne,0.0,2,2,8,0.190527,0.203195,9.844225,2
+aves_aa_4R_auth_1045,"andres, kürsener, unter",,personne,0.0,2,2,8,0.190527,0.203195,9.844225,2
+aves_aa_4R_auth_1046,"lampertheim, von, claus",,personne,0.0,2,2,8,0.186996,0.197898,6.63445,4
+aves_aa_4R_auth_1047,laurentz,,personne,0.0,2,2,8,0.186996,0.197898,6.63445,4
+aves_aa_4R_auth_1048,"schaffner, jerge",,personne,0.0,2,2,8,0.186996,0.197898,12.116903,4
+aves_aa_4R_auth_1049,"knapp, johanns",,personne,0.0,2,2,8,0.186996,0.197898,17.102422,4
+aves_aa_4R_auth_1050,"hasenohr, bernhart",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1051,"bender, obrecht",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1052,"wile, von, reimbolt",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1053,"molsheim, von",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1054,"schmied, claus",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1055,"stumpf, adolff",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1056,"lehel, burkhart",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1057,"gunther, johanns",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1058,"johanns, komm nach hinten",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1059,"wangen, von, erhart",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1060,"hennenberg, johanns",,personne,0.0,1,1,8,0.185278,0.197469,0,11
+aves_aa_4R_auth_1061,"butte, lauwel",,personne,0.0,2,2,8,0.187051,0.198417,45.885548,11
+aves_aa_4R_auth_1062,"ulrich, mathis",,personne,0.0,2,2,8,0.187051,0.198417,45.885548,11
+aves_aa_4R_auth_1063,"röttel, johanns",,personne,0.0,2,2,8,0.187051,0.198417,45.885548,11
+aves_aa_4R_auth_1064,"lehmann, johanns",,personne,0.0,2,2,8,0.187051,0.198417,46.119776,11
+aves_aa_4R_auth_1065,"münch, dietrich",,personne,0.0,2,2,8,0.187051,0.198417,5.830223,11
+aves_aa_4R_auth_1066,"bentz, lauwel",,personne,0.0,2,2,8,0.187051,0.198417,36.96621,11
+aves_aa_4R_auth_1067,"reinhart, johanns",,personne,0.0,1,1,7,0.197319,0.207952,0,5
+aves_aa_4R_auth_1068,"fürsenbach, jacob",,personne,0.0,1,1,7,0.197319,0.207952,0,5
+aves_aa_4R_auth_1069,"kiebel, johanns",,personne,0.0,1,1,7,0.197319,0.207952,0,5
+aves_aa_4R_auth_1070,"fleisch, küntz, der alte",,personne,0.0,2,2,8,0.19258,0.20329,2.648929,8
+aves_aa_4R_auth_1071,"drens, johanns",,personne,0.0,2,2,8,0.19258,0.20329,2.648929,8
+aves_aa_4R_auth_1072,khurin,,personne,0.0,2,2,8,0.19258,0.20329,88.52233,8
+aves_aa_4R_auth_1073,"kilwart, johanns, der junge",,personne,0.0,2,2,8,0.19258,0.20329,41.372503,8
+aves_aa_4R_auth_1074,männel,,personne,0.0,2,2,8,0.19258,0.20329,624.5,8
+aves_aa_4R_auth_1075,"minner, johanns",,personne,0.0,2,2,8,0.19258,0.20329,624.5,8
+aves_aa_4R_auth_1076,"morung, johanns",,personne,0.0,1,1,8,0.197443,0.208507,0,14
+aves_aa_4R_auth_1077,"wildersinn, johanns",,personne,0.0,1,1,8,0.197443,0.208507,0,14
+aves_aa_4R_auth_1078,"lütolt, michel",,personne,0.0,1,1,8,0.197443,0.208507,0,14
+aves_aa_4R_auth_1079,"volmar, claus",,personne,0.0,2,2,8,0.191167,0.202553,6.674867,9
+aves_aa_4R_auth_1080,sixt,,personne,0.0,2,2,8,0.191167,0.202553,11.242728,9
+aves_aa_4R_auth_1081,"mittelhausen, veltin",,personne,0.0,2,2,8,0.191167,0.202553,11.242728,9
+aves_aa_4R_auth_1082,"butze, johanns",,personne,0.0,2,2,8,0.191167,0.202553,11.242728,9
+aves_aa_4R_auth_1083,"porte, johanns",,personne,0.0,2,2,8,0.191167,0.202553,11.242728,9
+aves_aa_4R_auth_1084,"weidlich, ulrich",,personne,0.0,2,2,8,0.191167,0.202553,41.453841,9
+aves_aa_4R_auth_1085,"rippel, bernhart",,personne,0.0,1,1,8,0.189603,0.200349,0,12
+aves_aa_4R_auth_1086,"grasseck, claus",,personne,0.0,1,1,8,0.189603,0.200349,0,12
+aves_aa_4R_auth_1087,"schwartz, konrat",,personne,0.0,1,1,8,0.189603,0.200349,0,12
+aves_aa_4R_auth_1088,"bergheim, von, johanns",,personne,0.0,1,1,8,0.189603,0.200349,0,12
+aves_aa_4R_auth_1089,"österreicher, claus",,personne,0.0,1,1,8,0.187332,0.196219,0,6
+aves_aa_4R_auth_1090,"österreicher, peter",,personne,0.0,1,1,8,0.187332,0.196219,0,6
+aves_aa_4R_auth_1091,"schmied, johanns",,personne,0.0,1,1,8,0.187332,0.196219,0,6
+aves_aa_4R_auth_1092,"wernlin, stoffelus",,personne,0.0,1,1,8,0.187332,0.196219,0,6
+aves_aa_4R_auth_1093,"hirt, johanns, der alte",,personne,0.0,1,1,8,0.180104,0.189576,0,6
+aves_aa_4R_auth_1094,"kibitz, heinrich",,personne,0.0,2,2,8,0.206231,0.220379,0.888889,4
+aves_aa_4R_auth_1095,"schlettstadt, von, johanns",,personne,0.0,1,1,8,0.197443,0.208507,0,14
+aves_aa_4R_auth_1096,"vendenheim, johanns, brücken, zwischen",,personne,,6,6,8,0.18694,0.213852,687.156975,10
+conseil_1400,conseil 1400,,organisation,,29,29,9,0.223154,0.259506,15803.378469,1
+conseil_1401,conseil 1401,,organisation,,29,29,9,0.220169,0.255167,17177.511704,1
+conseil_1402,conseil 1402,,organisation,,29,29,9,0.215764,0.250163,17265.529276,1
+conseil_1403,conseil 1403,,organisation,,29,29,7,0.242442,0.276996,19555.758946,1
+conseil_1404,conseil 1404,,organisation,,29,29,9,0.222915,0.258903,15169.042747,1
+conseil_1405,conseil 1405,,organisation,,29,29,7,0.2403,0.276383,16067.1456,1
+conseil_1406,conseil 1406,,organisation,,28,28,7,0.242724,0.27758,14984.703403,1
+conseil_1407,conseil 1407,,organisation,,1,1,9,0.181726,0.198717,0,1
+conseil_1408,conseil 1408,,organisation,,29,29,7,0.241879,0.277302,17622.217889,1
+conseil_1409,conseil 1409,,organisation,,29,29,7,0.245776,0.281843,13608.707603,1
+conseil_1410,conseil 1410,,organisation,,29,29,7,0.254372,0.290571,20731.327486,1
+conseil_1411,conseil 1411,,organisation,,29,29,9,0.229373,0.266806,13921.741211,1
+conseil_1412,conseil 1412,,organisation,,29,29,7,0.249402,0.28616,19404.762965,2
+conseil_1413,conseil 1413,,organisation,,28,28,7,0.252829,0.288529,17468.702349,1
+conseil_1414,conseil 1414,,organisation,,29,29,9,0.231581,0.2696,13964.062355,1
+conseil_1415,conseil 1415,,organisation,,29,29,9,0.236842,0.27616,12791.023763,1
+conseil_1416,conseil 1416,,organisation,,29,29,7,0.270078,0.30166,29879.367816,1
+conseil_1417,conseil 1417,,organisation,,30,30,7,0.251812,0.289658,17561.080329,1
+conseil_1418,conseil 1418,,organisation,,29,29,7,0.24539,0.281324,13143.449393,1
+conseil_1419,conseil 1419,,organisation,,29,29,9,0.234974,0.273962,16177.962703,1
+conseil_1420,conseil 1420,,organisation,,29,29,7,0.256247,0.291666,15002.655389,1
+conseil_1421,conseil 1421,,organisation,,29,29,7,0.259436,0.295329,18074.321008,11
+conseil_1422,conseil 1422,,organisation,,29,29,7,0.26617,0.302257,17106.73193,1
+conseil_1423,conseil 1423,,organisation,,29,29,7,0.263147,0.298793,18440.339906,1
+conseil_1424,conseil 1424,,organisation,,29,29,7,0.295465,0.325321,35644.79344,1
+conseil_1425,conseil 1425,,organisation,,29,29,7,0.277507,0.310523,21738.961085,4
+conseil_1426,conseil 1426,,organisation,,29,29,7,0.274704,0.308072,19951.17773,1
+conseil_1427,conseil 1427,,organisation,,29,29,7,0.267651,0.300432,19055.980321,1
+conseil_1428,conseil 1428,,organisation,,29,29,7,0.269845,0.305923,21327.803223,9
+conseil_1429,conseil 1429,,organisation,,29,29,7,0.28316,0.314769,20461.156802,14
+conseil_1430,conseil 1430,,organisation,,29,29,7,0.276037,0.309623,19797.443756,1
+conseil_1431,conseil 1431,,organisation,,29,29,7,0.267422,0.303643,15263.280144,1
+conseil_1432,conseil 1432,,organisation,,1,1,7,0.221887,0.237437,0,13
+conseil_1433,conseil 1433,,organisation,,29,29,7,0.271602,0.307522,16977.909836,5
+conseil_1434,conseil 1434,,organisation,,29,29,7,0.286401,0.319135,19584.421966,3
+conseil_1435,conseil 1435,,organisation,,29,29,7,0.273742,0.309813,17331.950618,14
+conseil_1436,conseil 1436,,organisation,,29,29,7,0.2938,0.324375,22395.661177,3
+conseil_1437,conseil 1437,,organisation,,29,29,7,0.282776,0.316431,20582.845057,14
+conseil_1438,conseil 1438,,organisation,,29,29,7,0.282393,0.315106,18400.661777,3
+conseil_1439,conseil 1439,,organisation,,29,29,7,0.275066,0.310835,15774.805457,7
+conseil_1440,conseil 1440,,organisation,,29,29,7,0.296727,0.327639,24345.209018,5
+conseil_1441,conseil 1441,,organisation,,29,29,7,0.286008,0.318477,18456.362235,3
+conseil_1442,conseil 1442,,organisation,,29,29,7,0.278,0.313726,16838.656708,0
+conseil_1443,conseil 1443,,organisation,,29,29,5,0.29463,0.325566,38552.143406,7
+conseil_1444,conseil 1444,,organisation,,29,29,5,0.303936,0.333147,39136.246434,6
+conseil_1445,conseil 1445,,organisation,,30,30,7,0.278495,0.312402,15929.639077,7
+conseil_1446,conseil 1446,,organisation,,29,29,7,0.292974,0.324388,24513.839917,0
+conseil_1447,conseil 1447,,organisation,,29,29,7,0.283288,0.315715,22586.634187,2
+conseil_1448,conseil 1448,,organisation,,29,29,6,0.279991,0.313349,20391.810982,7
+conseil_1449,conseil 1449,,organisation,,29,29,7,0.270194,0.303405,17263.893119,8
+conseil_1450,conseil 1450,,organisation,,29,29,6,0.277015,0.310139,18228.733786,0
+conseil_1451,conseil 1451,,organisation,,29,29,6,0.26106,0.293965,17181.28292,8
+conseil_1452,conseil 1452,,organisation,,29,29,7,0.258045,0.291152,12806.135404,9
+conseil_1453,conseil 1453,,organisation,,29,29,6,0.275551,0.308353,18034.62093,8
+conseil_1454,conseil 1454,,organisation,,29,29,7,0.263036,0.296277,13381.745931,13
+conseil_1455,conseil 1455,,organisation,,30,30,6,0.271484,0.305289,17691.747117,12
+conseil_1456,conseil 1456,,organisation,,29,29,6,0.266284,0.299227,14721.570979,8
+conseil_1457,conseil 1457,,organisation,,29,29,7,0.255202,0.289144,9998.231363,8
+conseil_1458,conseil 1458,,organisation,,29,29,6,0.266965,0.29992,12792.096824,6
+conseil_1459,conseil 1459,,organisation,,29,29,6,0.266624,0.299414,13842.228242,6
+conseil_1460,conseil 1460,,organisation,,29,29,7,0.2501,0.28215,9771.291557,12
+conseil_1461,conseil 1461,,organisation,,29,29,7,0.253547,0.286426,10854.174424,12
+conseil_1462,conseil 1462,,organisation,,29,29,6,0.266852,0.299667,14159.456666,13
+conseil_1463,conseil 1463,,organisation,,27,27,6,0.26437,0.296003,15530.202612,13
+conseil_1464,conseil 1464,,organisation,,27,27,7,0.26106,0.293742,13527.022302,13
+conseil_1465,conseil 1465,,organisation,,27,27,7,0.254579,0.286535,12756.316006,10
+conseil_1466,conseil 1466,,organisation,,27,27,6,0.26857,0.30056,22544.826927,10
+conseil_1467,conseil 1467,,organisation,,27,27,6,0.26493,0.297216,25144.260249,10
+conseil_1468,conseil 1468,,organisation,,28,28,7,0.251003,0.282578,13274.274414,10
+conseil_1469,conseil 1469,,organisation,,27,27,7,0.230982,0.265382,7730.151751,10
+conseil_1470,conseil 1470,,organisation,,27,27,7,0.229037,0.263424,7060.980275,10
+conseil_1471,conseil 1471,,organisation,,25,25,7,0.24386,0.276234,12469.985694,10
+conseil_1472,conseil 1472,,organisation,,25,25,6,0.259006,0.290141,18643.142954,10
+conseil_1473,conseil 1473,,organisation,,25,25,6,0.25,0.280149,17016.678796,10
+conseil_1474,conseil 1474,,organisation,,25,25,7,0.22236,0.253348,7493.875701,10
+conseil_1475,conseil 1475,,organisation,,25,25,7,0.23201,0.264253,10398.457988,10
+conseil_1476,conseil 1476,,organisation,,25,25,7,0.230982,0.262788,7212.911944,10
+conseil_1477,conseil 1477,,organisation,,25,25,8,0.210677,0.245603,4884.878526,10
+conseil_1478,conseil 1478,,organisation,,25,25,7,0.235593,0.268429,16219.157742,10
+conseil_1479,conseil 1479,,organisation,,25,25,7,0.234094,0.266425,13626.164239,10
+conseil_1480,conseil 1480,,organisation,,25,25,7,0.229037,0.26082,10292.965061,10
+conseil_1481,conseil 1481,,organisation,,25,25,8,0.211962,0.247274,6989.037274,10
+conseil_1482,conseil 1482,,organisation,,25,25,8,0.210819,0.245475,7211.097781,10
+conseil_1483,conseil 1483,,organisation,,21,21,8,0.198761,0.231728,4319.537345,10
+conseil_1484,conseil 1484,,organisation,,21,21,8,0.19895,0.232019,5004.941261,10
+conseil_1485,conseil 1485,,organisation,,21,21,7,0.220091,0.250942,10951.038565,10
+conseil_1486,conseil 1486,,organisation,,21,21,7,0.216736,0.246026,8170.615063,10
+conseil_1487,conseil 1487,,organisation,,21,21,8,0.19914,0.232432,5602.929616,10
+conseil_1488,conseil 1488,,organisation,,21,21,8,0.199077,0.232419,5546.93384,10
+conseil_1489,conseil 1489,,organisation,,21,21,7,0.223712,0.25417,12365.599532,10
+conseil_1490,conseil 1490,,organisation,,21,21,7,0.223873,0.254103,13935.817861,10
+conseil_1491,conseil 1491,,organisation,,21,21,8,0.197194,0.230361,8220.776212,10
+conseil_1492,conseil 1492,,organisation,,21,21,8,0.190585,0.221124,5197.759627,10
+conseil_1493,conseil 1493,,organisation,,21,21,8,0.196143,0.228083,10110.912778,10
+conseil_1494,conseil 1494,,organisation,,21,21,9,0.179896,0.211794,3107.440804,10
+conseil_1495,conseil 1495,,organisation,,21,21,8,0.195042,0.226804,6717.725662,10
+conseil_1496,conseil 1496,,organisation,,21,21,7,0.210464,0.235874,13696.29099,10
+conseil_1497,conseil 1497,,organisation,,21,21,8,0.182574,0.209377,8456.123028,10
+conseil_1498,conseil 1498,,organisation,,21,21,9,0.171229,0.200295,5777.71204,10
+conseil_1499,conseil 1499,,organisation,,21,21,8,0.184025,0.214057,5611.447794,10
+poele_am Oberstaden,poele am Oberstaden,,organisation,,4,4,9,0.190353,0.200884,232.783061,11
+poele_an der Steinstraße,poele an der Steinstraße,,organisation,,2,2,7,0.195959,0.204385,78.515213,8
+poele_baigneurs,poele baigneurs,,organisation,,7,7,7,0.213992,0.230353,1155.667763,2
+poele_barbiers,poele barbiers,,organisation,,12,12,7,0.221025,0.240994,2570.356308,2
+poele_carreleurs,poele carreleurs,,organisation,,3,3,7,0.219551,0.230654,105.066811,6
+poele_cordiers,poele cordiers,,organisation,,4,4,7,0.22244,0.236889,624.231369,9
+poele_crieurs de vin,poele crieurs de vin,,organisation,,4,4,7,0.19984,0.211686,722.831346,11
+poele_fruitiers,poele fruitiers,,organisation,,8,8,7,0.210961,0.225741,1059.591937,9
+poele_hinter Sankt-Kathrinen,poele hinter Sankt-Kathrinen,,organisation,,3,3,7,0.198634,0.208479,166.218469,11
+poele_huiliers,poele huiliers,,organisation,,5,5,7,0.212394,0.226605,846.270473,4
+poele_in der Krutenau,poele in der Krutenau,,organisation,,4,4,7,0.197443,0.208757,138.791682,8
+poele_in der Ruprechtsau,poele in der Ruprechtsau,,organisation,,2,2,9,0.161544,0.168086,0.5,8
+poele_mesureurs de vin,poele mesureurs de vin,,organisation,,4,4,7,0.20197,0.213974,1185.821701,11
+poele_meuniers,poele meuniers,,organisation,,3,3,7,0.204278,0.216166,219.640009,4
+poele_orfèvres,poele orfèvres,,organisation,,10,10,7,0.211246,0.226316,1706.828597,2
+poele_peintres de boucliers,poele peintres de boucliers,,organisation,,12,12,7,0.217414,0.235758,2537.479612,2
+poele_regrattiers,poele regrattiers,,organisation,,3,3,7,0.193474,0.205215,110.747629,9
+poele_tondeurs de draps,poele tondeurs de draps,,organisation,,3,3,7,0.210464,0.22222,286.411596,4
+poele_unter Wagner,poele unter Wagner,,organisation,,6,6,7,0.233135,0.250247,1414.544729,8
+poele_zum Anker,poele zum Anker,,organisation,,18,18,7,0.258045,0.284833,6334.043113,4
+poele_zum Friburger,poele zum Friburger,,organisation,,11,11,7,0.226713,0.248028,4049.546548,5
+poele_zum Hirtzhorn,poele zum Hirtzhorn,,organisation,,3,3,9,0.171089,0.179741,1.5,4
+poele_zum Holtzapfel,poele zum Holtzapfel,,organisation,,1,1,9,0.170995,0.178675,0,4
+poele_zum Schiff,poele zum Schiff,,organisation,,8,8,9,0.171323,0.182406,14,4
+poele_zum Spiegel,poele zum Spiegel,,organisation,,25,25,7,0.254786,0.284677,9667.428185,14
+poele_zum Teich,poele zum Teich,,organisation,,5,5,7,0.216586,0.233354,673.208512,11
+poele_zur Blume,poele zur Blume,,organisation,,13,13,7,0.251003,0.275471,3715.854813,6
+poele_zur Waseneck,poele zur Waseneck,,organisation,,3,3,7,0.199014,0.208608,164.171553,11
+échevinage_barbiers et baigneurs,échevinage barbiers et baigneurs,,organisation,,19,19,7,0.235239,0.261825,8516.310196,2
+échevinage_bateliers,échevinage bateliers,,organisation,,30,30,7,0.259651,0.291827,24951.543113,4
+échevinage_bouchers,échevinage bouchers,,organisation,,13,13,7,0.251003,0.275471,3715.854813,6
+échevinage_boulangers,échevinage boulangers,,organisation,,12,12,7,0.2503,0.274887,8963.588224,8
+échevinage_cabaretiers,échevinage cabaretiers,,organisation,,11,11,7,0.226713,0.248028,4049.546548,5
+échevinage_charpentiers,échevinage charpentiers,,organisation,,9,9,7,0.233919,0.256016,5391.019704,12
+échevinage_charrons,échevinage charrons,,organisation,,13,13,6,0.245776,0.268745,7990.765708,5
+échevinage_coltineurs de tonneaux,échevinage coltineurs de tonneaux,,organisation,,4,4,7,0.219628,0.237899,1277.299844,6
+échevinage_constructeurs de bateaux,échevinage constructeurs de bateaux,,organisation,,3,3,7,0.22173,0.238857,43.049602,11
+échevinage_cordonniers,échevinage cordonniers,,organisation,,16,16,7,0.227372,0.253078,14069.458027,11
+échevinage_crieurs et mesureurs de vin,échevinage crieurs et mesureurs de vin,,organisation,,8,8,7,0.213336,0.229633,4459.626436,11
+échevinage_drapiers,échevinage drapiers,,organisation,,13,13,7,0.227952,0.25119,10524.529008,9
+échevinage_forgerons,échevinage forgerons,,organisation,,16,16,7,0.241506,0.26838,12211.475651,1
+échevinage_gourmets et courtiers,échevinage gourmets et courtiers,,organisation,,12,12,7,0.236038,0.257678,7856.923383,14
+échevinage_huiliers meuniers et tondeurs de draps,échevinage huiliers meuniers et tondeurs de draps,,organisation,,11,11,7,0.229879,0.25158,4583.242039,4
+échevinage_jardiniers,échevinage jardiniers,,organisation,,14,14,7,0.238377,0.260572,8893.142918,8
+échevinage_marchands,échevinage marchands,,organisation,,25,25,7,0.254786,0.284677,9667.428185,14
+échevinage_marchands de grains,échevinage marchands de grains,,organisation,,12,12,7,0.244336,0.267778,4692.197818,1
+échevinage_maçons,échevinage maçons,,organisation,,11,11,7,0.230472,0.249265,5704.712255,6
+échevinage_orfèvres,échevinage orfèvres,,organisation,,22,22,7,0.228201,0.253765,10084.282048,2
+échevinage_pelletiers,échevinage pelletiers,,organisation,,13,13,7,0.232528,0.255683,9554.951205,9
+échevinage_pêcheurs,échevinage pêcheurs,,organisation,,15,15,7,0.229963,0.253205,7963.534891,11
+"échevinage_regrattiers, cordiers et fruitiers","échevinage regrattiers, cordiers et fruitiers",,organisation,,15,15,7,0.236216,0.259779,7296.83777,9
+échevinage_sauniers,échevinage sauniers,,organisation,,14,14,7,0.248906,0.273473,9148.899245,8
+échevinage_tailleurs,échevinage tailleurs,,organisation,,14,14,7,0.238923,0.26425,8279.451489,11
+échevinage_tanneurs,échevinage tanneurs,,organisation,,10,10,7,0.240115,0.260706,4419.652192,0
+échevinage_tisserands,échevinage tisserands,,organisation,,14,14,7,0.245969,0.269955,6821.721622,14
+échevinage_tonneliers,échevinage tonneliers,,organisation,,12,12,7,0.246357,0.270574,6448.786936,1

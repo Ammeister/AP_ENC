@@ -1,0 +1,219 @@
+PrénomNormalisé,PrénomFrançais,Types,FormesNonNormalisées
+adalhelm,alleaume,"['masc', 'germanique']","['adalhelm', 'adelhelm', 'alhelm']"
+adam,adam,"['masc', 'hébraïque']",['adam']
+adelheit,adélaïde,"['fém', 'germanique']",['adelheit']
+adolff,adolphe,"['masc', 'germanique']","['adolf', 'adolff']"
+agnese,agnès,"['fém', 'grec']","['nese', 'agnese']"
+amandus,amand,"['masc', 'latin']",['amandus']
+ambrosius,ambroise,"['masc', 'grec']",['ambrosius']
+andre,andré,"['masc', 'grec']","['endre', 'andre']"
+andres,andré,"['masc', 'grec']",['andres']
+anshelm,anselme,"['masc', 'germanique']","['anshelm', 'anßhelm']"
+anthenie,antoine,"['masc', 'latin']","['anthenie', 'anthenig', 'anthenye', 'anthenige', 'anthonie', 'anthonye', 'anthenÿe', 'anthonÿe', 'thenige']"
+arbogast,,"['masc', 'germanique']","['arbgast', 'arbogast', 'ärbgäst']"
+augustinus,augustin,"['masc', 'grec']",['augustinus']
+balthazar,balthazar,"['masc', 'babylonian']",['balthazar']
+barant,,['masc'],['barant']
+barbel,barbara,"['fém', 'grec']",['barbel']
+bartholomeus,barthélémy,"['masc', 'arameen']","['bartholomeus', 'bartholemey', 'bartholome']"
+bechtolt,bertold,"['masc', 'germanique']","['behtolt', 'bechtolt', 'berhtolt', 'bahtolt', 'bertholt', 'bechtold']"
+behremann,,"['masc', 'germanique']","['behrmann', 'behrman', 'bermann', 'berman', 'behremann', 'bere']"
+bernhart,bernard,"['masc', 'germanique']","['bernhart', 'bernhard', 'berhart', 'bernharte']"
+bertsch,,"['masc', 'germanique']",['bertsch']
+billung,,"['masc', 'germanique']",['billung']
+blesin,blaise,"['masc', 'grec']",['blesin']
+brigitte,brigite,"['fém', 'celtique']","['brigde', 'brigitte', 'bride']"
+burkhart,,"['masc', 'germanique']","['burkhart', 'burkhard', 'burckhart', 'burckhard', 'burchart', 'burchard', 'burckart', 'bùrcklin', 'burcklin', 'buckart', 'burckeln', 'burckel', 'bürckel', 'burckelin']"
+burmann,,"['masc', 'germanique']","['burlin', 'burmann']"
+böldemann,,"['masc', 'germanique']","['boͤldelin', 'böldemann']"
+bürger,,"['masc', 'germanique']","['burger', 'bürger']"
+caspar,gaspard,"['masc', 'latin']",['caspar']
+christian,christian,"['masc', 'latin']","['cristian', 'christian', 'cristean']"
+claus,nicolas,"['masc', 'grec']","['claus', 'clauwes', 'claws', 'niclaus', 'niclas', 'claüs', 'cläus']"
+claus-friedrich,nicolas-frédéric,"['masc', 'compose', 'grec', 'germanique']","['claus fridrich', 'claus-friedrich', 'clauß fridrich', 'clausfridrich', 'claus friderich']"
+claus-johanns,nicolas-jean,"['masc', 'hébraïque', 'composé']","['claus johann', 'claus-johanns']"
+dammer,,"['masc', 'germanique']",['dammer']
+diebolt,thiebault,"['masc', 'germanique']","['diebolt', 'diebold', 'tiebolt', 'tiebold', 'hanns thiebolt']"
+dielmann,,"['masc', 'germanique']","['dielman', 'dielmann', 'diel', 'dielen']"
+diethmar,,"['masc', 'germanique']","['diemar', 'diethmar', 'dietsche']"
+dietrich,thierry,"['masc', 'franc']","['dietrich', 'diethermann', 'dietherman', 'dietherich', 'diethrich', 'diether', 'dietterich', 'dieterich']"
+dinlin,,['fém'],"['dinlin', 'dielin', 'dynlin']"
+ebelin,,"['masc', 'germanique']","['ebelin', 'ebel']"
+eberhart,éberhard,"['masc', 'germanique']","['eberhart', 'eberhard', 'eberlin']"
+eckhart,,"['masc', 'germanique']","['eckart', 'eckhart']"
+elisabeth,élisabeth,"['fém', 'hébraïque']","['eilse', 'elisabeth', 'else', 'eilsebeth']"
+engelhart,,"['masc', 'germanique']",['engelhart']
+ennel,anne,"['fém', 'hébraïque']","['ennel', 'ennelin', 'anna', 'ennell']"
+erbe,urbain,"['masc', 'latin']",['erbe']
+erhart,,"['masc', 'germanique']","['erhart', 'erhard']"
+ernel,,"['fém', 'germanique']","['ernelin', 'ernel']"
+eucharius,euchaire,"['masc', 'latin']",['eucharius']
+exel,,"['masc', 'latin']",['exel']
+florentz,florent,"['masc', 'latin']","['florentz', 'florenz']"
+frantz,françois,"['masc', 'germanique']","['frantz', 'franz', 'ffrantz', 'frentzel', 'frentzil']"
+friedel,,"['masc', 'germanique']","['fridelin', 'friedel']"
+friedrich,frédéric,"['masc', 'germanique']","['friedrich', 'fridrich', 'fridel', 'friedel', 'friderich', 'ffriderich', 'friederich', 'fredel']"
+frillemann,,"['masc', 'germanique']","['frilleman', 'frillemann']"
+fritsch,friedrich,"['masc', 'germanique', 'diminutif']","['fritsch', 'fritz', 'fritze', 'fritsche']"
+gabriel,gabriel,"['masc', 'hebrew']",['gabriel']
+gangolff,,"['masc', 'germanique']",['gangolff']
+gebhart,,"['masc', 'germanique']","['gabehert', 'gabhart']"
+gerbot,,"['masc', 'germanique']","['gerbot', 'gerboth', 'gerbott']"
+gerhart,gérard,"['masc', 'germanique']",['gerhart']
+gertrut,gertrude,"['fém', 'germanique']","['gerhüs', 'gertrut', 'truwel', 'gertrüt']"
+gil,gilles,"['masc', 'grec']",['gil']
+gilge,gilles,"['masc', 'grec']","['gilge', 'gilg', 'gilgue', 'gilgen', 'gylge']"
+gisbrecht,,"['masc', 'germanique']","['gisebrechte', 'gisbrecht', 'gibreht']"
+gosse,,"['masc', 'germanique']","['gosse', 'goß', 'goßel']"
+gottfried,,"['masc', 'germanique']","['götfrit', 'gottfried']"
+gunther,,"['masc', 'germanique']","['günther', 'gunther']"
+guntram,gontran,"['masc', 'germanique']","['güntram', 'guntram']"
+göiche,,"['masc', 'germanique']",['göiche']
+götze,gottfried,"['masc', 'germanique', 'diminutif']","['götze', 'goetze', 'gotze', 'götz', 'gotz', 'goͤtze', 'gotzman', 'gotzel']"
+güntel,,"['fém', 'germanique']",['güntel']
+hammer,,['masc'],"['hemmerlin', 'hammer']"
+hannemann,,"['masc', 'germanique']","['hanman', 'hannemann', 'hamman', 'hanneman', 'henne']"
+hansekint,,['masc'],['hansekint']
+hartmann,hartman,"['masc', 'germanique']","['hartman', 'hartmann', 'hertell']"
+hartung,,"['masc', 'germanique']","['hartüng', 'hartung']"
+hegel,,"['masc', 'germanique']",['hegel']
+heileck,,"['fém', 'germanique']","['heilecke', 'heileck']"
+heilmann,,"['masc', 'germanique']","['heilman', 'heilmann', 'heil']"
+heinrich,henri,"['masc', 'germanique']",['heinrich']
+heintz,henri,"['masc', 'germanique', 'diminutif']","['heintz', 'heinz', 'heintzeman', 'heintzman', 'heintzel', 'heintze']"
+heitz,,"['masc', 'germanique']","['heitzman', 'heitz', 'heitze']"
+henneckin,,"['masc', 'germanique']","['henckin', 'henneckin', 'hennickin']"
+hensel,jean,"['masc', 'germanique', 'diminutif']","['hensel', 'henselin', 'henß', 'henseln', 'hennsel', 'hennß']"
+hermann,,"['masc', 'germanique']","['herman', 'hermann']"
+herzog,,"['masc', 'germanique']","['herzog', 'hertzog', 'hertzoüge']"
+hessemann,,"['masc', 'germanique']","['hesseman', 'hessemann']"
+hettemann,,"['masc', 'germanique']","['hettman', 'hettemann']"
+hetzel,,"['masc', 'germanique']",['hetzel']
+hilarius,hilaire,"['masc', 'latin']","['hylarius', 'hilarius']"
+hirtz,,"['masc', 'germanique']","['hirtz', 'hirtzil']"
+hug,hugues,"['masc', 'germanique']","['hug', 'hig', 'hück', 'hugel', 'hüg', 'hügel', 'hugelin']"
+hörnel,,"['masc', 'germanique']","['hörnelin', 'hörnel']"
+jacob,jacob,"['masc', 'hébraïque']","['jacob', 'jacop', 'jakob', 'jakop', 'jocob', 'jokop']"
+jeckel,jacques,"['masc', 'hébreux']","['jeckel', 'jeckelin', 'jecklin', 'jeckeln']"
+jerge,georges,"['masc', 'grec']","['jerge', 'jörge', 'jorg', 'joͤrg', 'jorgͤ', 'joͤrge', 'joͤrg', 'jerg', 'gerge', 'jorge', 'jörg']"
+jeronimus,jérôme,"['masc', 'latin']",['jeronimus']
+johanns,jean,"['masc', 'hébraïque']","['johann', 'johan', 'johanns', 'johans', 'hanns', 'hans', 'hanseman', 'hannseman', 'lùtoltz hanns', 'hannß', 'johannes', 'hannes']"
+johanns-adam,jean-adam,"['masc', 'hébraïque', 'composé']","['hanns adam', 'johanns-adam']"
+johanns-adolff,jean-adolphe,"['masc', 'compose', 'hebrew', 'germanique']","['hannsadolff', 'johanns-adolff', 'hanns adolff', 'hans adolff']"
+johanns-balthazar,jean-balthazar,"['masc', 'germanique', 'hebrew']","['hannß balthazar', 'johanns-balthazar', 'hanns balthazar']"
+johanns-claus,jean-nicolas,"['masc', 'compose', 'hebrew', 'grec']","['hansclaus', 'johanns-claus']"
+johanns-diebolt,jean-thibault,"['masc', 'compose', 'hebrew', 'germanique']","['hanns diebolt', 'johanns-diebolt']"
+johanns-dietrich,jean-thierry,"['masc', 'hébraïque', 'germanique', 'composé']","['hanns tietrich', 'johanns-dietrich']"
+johanns-erhart,johanns-erhart,"['masc', 'compose', 'germanique']","['hannßerhart', 'johanns-erhart', 'hanns erhart', 'hans erhart', 'hanserhart']"
+johanns-heinrich,jean-henri,"['masc', 'compose', 'germanique']","['hans heinrich', 'johanns-heinrich', 'hannsheinrich', 'hanns heinrich']"
+johanns-hiltebrant,jean-hildebrand,"['masc', 'compose', 'germanique']","['hanns hiltbrant', 'johanns-hiltebrant', 'hans hiltebrant']"
+johanns-jerge,jean-georges,"['masc', 'compose', 'hebreux', 'grec']","['hannß joͤrg', 'johanns-jerge', 'hanns jerge']"
+johanns-konrat,jean-konrad,"['masc', 'compose', 'hebrew', 'germanique']","['hans conrat', 'johanns-konrat', 'hannß conrat', 'hannßconrat', 'hannsconrat', 'hanns conrat', 'hansconrat', 'hanns cünrat']"
+johanns-ludwig,jean-louis,"['masc', 'compose', 'latin']","['hanns ludwig', 'johanns-ludwig', 'hansludwig']"
+johanns-lütholt,,"['masc', 'compose', 'latin', 'germanique']","['lütoltz hanns', 'johanns-lütholt']"
+johanns-marx,jean-marc,"['masc', 'compose', 'latin', 'hebrew']","['hanns marx', 'johanns-marx']"
+johanns-rudolff,jean-rodolphe,"['masc', 'compose', 'latin', 'germanique']","['hanns rüdolff', 'johanns-rudolff', 'johanns rüdolff', 'johanns ruͦdolff', 'johannß ruͦdolff', 'hanns ruͦdolff', 'hans ruͦdolff', 'hannsruͦdolff', 'hannsrüdolff']"
+johanns-wilhelm,jean-guillaum,"['masc', 'compose', 'hebrew', 'germanique']","['hans wilhelm', 'johanns-wilhelm', 'hanswilhelm']"
+jost,juste,"['masc', 'latin']","['jost', 'joste', 'jösel', 'josel']"
+karl,charles,"['masc', 'germanique']","['karle', 'karl']"
+katherin,catherine,"['fém', 'grec']","['katherin', 'katherine', 'katherina', 'katherinn', 'ketherin']"
+khurin,,"['masc', 'germanique']","['churin', 'khurin', 'chùrin', 'kuͦrin']"
+klaue,,"['masc', 'germanique']","['clawe', 'klaue']"
+kleis,,"['masc', 'germanique']","['cleisel', 'kleis', 'cleselin']"
+klore,clara,"['fém', 'latin']","['clore', 'klore', 'clerlin']"
+konrat,konrad,"['masc', 'germanique']","['konrad', 'konradt', 'konrat', 'cünrat', 'cünrad', 'conrat', 'conrad', 'cuͦnrat', 'cunrat', 'cönrat', 'cuͦnrat']"
+kopff,,"['masc', 'germanique']","['koppfelin', 'kopff']"
+kraft,,"['masc', 'germanique']","['kraft', 'krafft', 'craft', 'crafft']"
+kristine,christine,"['fém', 'grec']","['cristine', 'kristine']"
+köbel,,"['masc', 'germanique']","['cöbelin', 'köbel']"
+kühne,,"['masc', 'germanique']","['kühne', 'küne', 'cüne', 'cüneman', 'cuͦne', 'cuͦneman', 'cuͦn']"
+küntz,konrad,"['masc', 'germanique', 'diminutif']","['küntz', 'cüntz', 'cüntzel', 'cuentz', 'cuentzel', 'cüntze', 'cuentze', 'cüntzlin', 'cùntz', 'cuͦntz', 'cuntz', 'cùntzlin', 'cuͦntz', 'cüntzelin', 'contz', 'cuntzel', 'cuͦntz', 'contzel', 'cuntze', 'küntzel', 'cüntzen', 'cuͦntze']"
+kürin,,"['masc', 'germanique']",['kürin']
+lamprecht,,"['masc', 'germanique']","['lampreht', 'lamprecht']"
+laurentz,laurent,"['masc', 'latin']","['lentzel', 'lentz', 'laurentz', 'lorentz', 'lentzeln', 'lorentzie', 'lorentze']"
+lauwel,nicolas,"['masc', 'latin', 'diminutif']","['lauwel', 'lauwelin', 'lawel', 'lawelin', 'laulin', 'lauwlin', 'lawlin', 'laẅelin', 'läwelin', 'laweln', 'laẅel', 'lauweln', 'laẅeln', 'laüwelin', 'lauwels', 'lauwelins', 'laͧwel', 'laüweln', 'laüwel']"
+leben,,"['masc', 'germanique']",['leben']
+lexius,,"['masc', 'latin']","['lexius', 'lecius']"
+lienhart,léonard,"['masc', 'germanique']","['lienhart', 'lienhard', 'leonhart', 'leonhard', 'leonhardt']"
+lienlin,,['fém'],['lienlin']
+lucas,lucas,"['masc', 'latin']","['lucas', 'luckas']"
+ludwig,louis,"['masc', 'germanique']","['ludwig', 'ludeman', 'ludman', 'ludewig']"
+lutz,,"['masc', 'germanique']","['lutze', 'lutz']"
+lux,luc,"['masc', 'latin']","['lux', 'lüx']"
+lötschel,charlotte,"['fém', 'germanique']","['löttschel', 'lötschel']"
+lütholt,léopold,"['masc', 'germanique']","['lütholt', 'lüthold', 'lütolt', 'lütold', 'lütoltz', 'ludewick']"
+margrede,marguerite,"['fém', 'latin']","['margretha', 'margrede', 'margrethe']"
+martin,martin,"['masc', 'latin']",['martin']
+martzolff,marcel,"['masc', 'latin']","['martzolf', 'martzolff', 'marzolf', 'marzolff']"
+marx,marc,"['masc', 'latin']",['marx']
+matheus,matthieu,"['masc', 'latin']",['matheus']
+mathis,mathis,"['masc', 'hébraïque']",['mathis']
+mattern,,"['masc', 'germanique']","['mattern', 'matern', 'materne']"
+meder,médéric,"['masc', 'germanique']",['meder']
+megel,,"['masc', 'germanique']","['megil', 'megel']"
+melchior,melchior,"['masc', 'hébraïque']","['melchier', 'melchior']"
+mertz,,"['masc', 'germanique']",['mertz']
+mewus,,['masc'],"['mewus', 'meüs']"
+michel,michel,"['masc', 'hébraïque']",['michel']
+midhart,médard,"['masc', 'germanique']","['mydehart', 'midhart']"
+monschein,,"['masc', 'germanique']","['monschein', 'monschin']"
+männel,,"['masc', 'germanique', 'diminutif']",['mennel']
+mörlin,merlin,['masc'],['mörlin']
+oberlin,,"['masc', 'germanique']","['oberlin', 'öberlin', 'äberlin']"
+obrecht,albert,"['masc', 'germanique']","['obrecht', 'obreht', 'abreht', 'albreht', 'öbreht']"
+ortlieb,,"['masc', 'germanique']","['ortlieb', 'ortliep', 'örtel', 'oertel']"
+oswalt,oswald,"['masc', 'germanique']","['ohswalt', 'oswalt', 'oßwalt']"
+ottefried,,"['masc', 'germanique']","['ottfried', 'otfried']"
+ottemann,,"['masc', 'germanique']","['ottman', 'otman', 'ottemann', 'otteman', 'otte', 'ott', 'öttelin', 'ottel']"
+ottilie,odile,"['fém', 'germanique']",['ottilie']
+pantheleon,pantéléon,"['masc', 'grec']","['pantheleon', 'panteleon', 'phantheleon', 'panthaleon']"
+paulus,paul,"['masc', 'latin']","['paulus', 'paüels', 'pauels', 'pavels']"
+peter,pierre,"['masc', 'grec']","['peter', 'peterman']"
+pfutschel,,"['fém', 'germanique']","['pfütschel', 'pfutschel']"
+philipp,,"['masc', 'latin']","['philipps', 'philipp', 'philips', 'philippe', 'pfilips']"
+reimbolt,rimbault,"['masc', 'germanique']","['reimbolt', 'reimbold', 'reinbolt', 'reinbold', 'reymbolt', 'boldel']"
+reimbolt-hiltebrant,rimbaud-hildebrand,"['masc', 'compose', 'germanique']","['reimbolt hiltbrant', 'reimbolt-hiltebrant']"
+reinhart,,"['masc', 'germanique']",['reinhart']
+remig,rémy,['masc'],"['remmig', 'remig']"
+reynolt,,"['masc', 'germanique']",['reynolt']
+richart,richard,"['masc', 'germanique']","['richart', 'richard']"
+riffe,,"['masc', 'germanique']","['rifelin', 'riffe', 'rufelin', 'rufel', 'rüffel', 'ruffel', 'ruͤfelin']"
+rigel,,"['masc', 'germanique']","['rygel', 'rigel']"
+rudolff,rodolphe,"['masc', 'germanique']","['rüdolf', 'rüdolff', 'rudolf', 'rudolff', 'ruͦdolff', 'ruͦdolff', 'rùdolff']"
+ruhlemann,rodolphe,"['masc', 'germanique', 'diminutif']","['rüle', 'rülman', 'rüllin', 'ruͦlman', 'ruͤllin', 'rullin', 'rùllin', 'rùlin', 'rülin', 'rulman', 'rüleman', 'rulin', 'ruͦlman']"
+runnelin,,['fém'],"['runelin', 'runnelin']"
+ruther,,"['masc', 'germanique']","['rüther', 'ruther']"
+schochmann,,"['masc', 'germanique']","['schochman', 'schochmann']"
+schwartz,,"['masc', 'germanique']","['swartz', 'schwartz']"
+schweicker,,"['masc', 'germanique']","['swicker', 'schweicker']"
+siegel,sigel,"['masc', 'germanique']","['siegel', 'sigel']"
+sifrit,siegfried,"['masc', 'germanique']","['sifrit', 'syfrit', 'sỳfrit', 'sifrÿt', 'sÿfrit', 'syfrid']"
+sigel,,"['masc', 'germanique']","['sigelin', 'sigel']"
+sixt,sixte,"['masc', 'latin']","['sixt', 'six', 'sitze', 'sitz', 'sytze']"
+sophie,sophie,"['fém', 'grec']","['söffche', 'sophie']"
+stefan,stéphane,"['masc', 'grec']","['stefan', 'steffan', 'steffann', 'stepfan', 'stephan', 'stephann']"
+stoffelus,christophe,"['masc', 'grec']","['stoffelus', 'stofelus', 'stoffels', 'stöffelus', 'stöfelus', 'stöfels', 'stöffelin']"
+strauss,,"['masc', 'germanique']","['struße', 'strauss']"
+symont,simon,"['masc', 'hébraïque']","['symont', 'symond', 'simont', 'simond', 'sÿmont', 'symon', 'sỳmont', 'symmont', 'symund', 'symunt']"
+thoman,thomas,"['masc', 'arameen']","['thoman', 'thomman', 'thomann', 'thumman', 'döman']"
+ube,,['masc'],"['ybey', 'ube']"
+uhlmann,,"['masc', 'germanique']","['üllin', 'uhlmann', 'ullin', 'ule', 'ulman', 'ulin']"
+ulrich,ulrich,"['masc', 'germanique']","['ülrich', 'ulrich', 'uelrich', 'uolrich', 'ualrich', 'ùlrich', 'uͦlrich', 'uͣlrich', 'uͤlrich']"
+ulrich-hensel,,"['masc', 'germanique', 'composé']","['uͦlrich hensel', 'ulrich-hensel']"
+ursula,ursule,"['fém', 'germanique']","['ursüla', 'ursula', 'ursel']"
+veltin,valentin,"['masc', 'latin']","['veltin', 'vellentin']"
+völtz,volkmar,"['masc', 'germanique', 'diminutif']","['voltz', 'völtz', 'volz', 'völz', 'volmar']"
+walraff,,"['masc', 'germanique']",['walraff']
+walther,walther,"['masc', 'germanique']",['walther']
+walther-hiltebrant,,"['masc', 'compose', 'germanique']","['walther hiltbrant', 'walther-hiltebrant']"
+weldel,,"['masc', 'germanique']",['weldel']
+wendeling,,"['masc', 'germanique']",['wendeling']
+wernher,werner,"['masc', 'germanique']","['wernher', 'werner', 'wernlin', 'werlin']"
+wetzel,,"['masc', 'germanique']",['wetzel']
+wierlin,,"['masc', 'germanique']",['wierlin']
+wilhelm,guillaume,"['masc', 'germanique']",['wilhelm']
+willibolt,,"['masc', 'germanique']","['willebolt', 'willibolt']"
+wirich,,"['masc', 'germanique']","['wirich', 'wyrich']"
+wolff,,"['masc', 'germanique']","['wölffelin', 'wolff', 'wolffel']"
+wolffhelm,,"['masc', 'germanique']",['wolffhelm']
+üntzel,,"['masc', 'germanique']","['üntzel', 'untzel']"
