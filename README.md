@@ -5,8 +5,13 @@ Dépôt distant de mon mémoire de master en humanités numériques et computati
 
 Mémoire soutenu le 26 septembre 2022 à l'École Nationale des Chartes.
 
-<img src="images/md/échevins.jpg" style="display: block; margin: auto;" />      Cancel changes
-
+<p align="center">
+  <img src="images/md/échevins.jpg" style="display: block; margin: auto;"/>
+  <br>
+    <em>Illustration générée en utilisant l'IA Stable Diffusion;<br/>
+      prompt: "german 15th century woodcut of Strasbourgs eldermen"</em>
+  </br>
+</p>
 
 Membres du jury :
 - M. Jean-Baptiste Camps (président du jury)
