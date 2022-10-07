@@ -8,7 +8,7 @@ Mémoire soutenu le 26 septembre 2022 à l'École Nationale des Chartes.
 <p align="center">
   <img src="images/md/échevins.jpg" style="display: block; margin: auto;"/>
   <br>
-    <em>Illustration générée en utilisant l'IA Stable Diffusion;<br/>
+    <em>Illustration générée avec Stable Diffusion;<br/>
       prompt: "german 15th century woodcut of Strasbourg's eldermen"</em>
   </br>
 </p>
