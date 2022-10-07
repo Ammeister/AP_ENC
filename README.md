@@ -5,6 +5,8 @@ Dépôt distant de mon mémoire de master en humanités numériques et computati
 
 Mémoire soutenu le 26 septembre 2022 à l'École Nationale des Chartes.
 
+<img src="images/md/échevins.png" style="display: block; margin: auto;" />
+
 Membres du jury :
 - M. Jean-Baptiste Camps (président du jury)
 - Mme Carmen Brando Lebas (directrice numérique)
